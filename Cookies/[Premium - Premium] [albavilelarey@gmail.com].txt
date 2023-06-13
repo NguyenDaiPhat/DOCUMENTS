@@ -1,0 +1,11 @@
+www.netflix.com	TRUE	/	FALSE	1657590839	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1703424743	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1671846999	OptanonConsent	isIABGlobal=false&datestamp=Fri+Dec+24+2021+02%3A56%3A39+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=6.6.0&consentId=31b764dc-cbf2-49a7-ae3b-bfb5b8b059ed&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A0&hosts=H12%3A1%2CH13%3A1%2CH27%3A0%2CH28%3A0%2CH30%3A0&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1640321791	flwssn	c894b1e5-4b29-48fe-9e13-02003475bd5d
+.netflix.com	TRUE	/	FALSE	1648086998	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1671846991	nfvdid	BQFmAAEBELfNnLOHkMAvulXJNkO2zYRggzl__SCDgrL7voYgs6IWRKa1vpyyrWU1Z_PIghs9Hfd9ln9WHFfavBpIibaJYMnO6p9YVZM_Y12lFQQADgeFQ9L3gpvbxyM3M1XPof6I9cNa1O8r7nSV3X3_GIxAaIQ9
+.netflix.com	TRUE	/	FALSE	1648087030	playerPerfMetrics	%7B%22mostRecentValue%22%3A%7B%22throughput%22%3A70.0771%7D%7D
+.netflix.com	TRUE	/	TRUE	1671853260	NetflixId	v%3D2%26ct%3DBQAOAAEBEBIetOkZkN66pO-8iPdlHj2B0EVTEoaeq1gdoTe7BvtAubaBSqlOXASNpv5qlJb1yVK982b1EaGXEZlWkvg-e2tvFMuiywBmpVW6nbIDV7YdXiqFeAj1ZyY9bomUsZaSA12cl7YsBgtD56b4Akk8WgPt1qkQ-8woyfy5aJxOAdPs2zJoA4DgUwszrzo1MUuo-AEixfhVe_WOnMgwYtS8wRIeHXQanuBzneuNlZSsdxwR-F6aMtbCX4yLjd1N8WvIhHOKCNB90cWja89_W0hWEgRa5wcO6AVr-FvqBoNSyFc3fSvc7mLlxMtTeeHkpg2b6ZEy8qFwhRIfEY44c1BXfrXRbsNggO0SCmQ6DIhFQ3ebJwHrgkxZ1R3qOjx2ICzGCOQv6_UiTzz-cd0ZLPtMC9VRy7SwIUJtfNXsCBkh6xkwVViPpHCHzGh9Gyw5DdmyKkQupWaEj3rEX98Y2h4EuIyri0-AvMnb7JGj_1kfSh4DZzc_CrdGtY8jC-oHkWzw2NvPrBTCcHee2pz3IF5MWU4MwIHhkIOSSRDb0ZQsN4Kjs3QFK_E5GbWgfSGXuOcR96hWQ6UaLeYdQErXQHjkkiEHiWHyr4Sluj1XHFr9MnSXM_MsNcDxYc9G01i8zBL-DxVa%26bt%3Ddbl%26ch%3DAQEAEAABABT8eKPhfgmAN4WS-_T01YYTUNUsxNP-Fww.%26mac%3DAQEAEAABABQ6_Cs1D1RK4ZwraHAcR5e1eI7HfJznHOU.
+.netflix.com	TRUE	/	TRUE	1671853260	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABS_SYJIDiIxw1skcP2eWzVsNPls5XzR3v4.%26dt%3D1640317260064
+.netflix.com	TRUE	/	FALSE	1671853386	memclid	b6399c42-9cc4-450b-9f54-2d5316f32df4
+.netflix.com	TRUE	/	FALSE	1640319190	profilesNewSession	0

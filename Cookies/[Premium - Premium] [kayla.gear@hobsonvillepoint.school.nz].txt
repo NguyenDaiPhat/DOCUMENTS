@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1680132847	nfvdid	BQFmAAEBEDRBg25BOTGyebn4Wjv-AqNggHTJSvdK48kQLRHKezEtVzPo7vpkAMzUz6l3-nwyQKYD6JuH7luU8VsylA1-g0dZW3avhZXQRmB7HPTM5sWVERNnzHAst4k9frmMUWmgkIejKa5ZN0JMG_xL5-dSf-91
+.netflix.com	TRUE	/	FALSE	1650717436	flwssn	83cb8cad-3024-4daf-adc4-c713b5871091
+.netflix.com	TRUE	/	FALSE	1658482637	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1658482637	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1682244930	memclid	b759dad3-5123-4744-a848-5bfa3a809001
+.netflix.com	TRUE	/	FALSE	1650710724	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1684281003	NetflixId	v%3D2%26ct%3DBQAOAAEBEBTAdCft4aAIWbT1QyRJ1kqB4J4V_rSRov-dBp6YTuqm7ogJutAsEMtUwvYcexl0o9WkHu1XOfsuVd6Iz067mpMcMk9uhnqhbnb1jSu35YDmEk2v616zJi0OVaAaGYy1uBoAq1seXarypcYgqisE3VjGwZi8G6tCIc5t3wRGR1so7gyQFWuuHXPeWDeZto1QcvqQIdk08kGbQLcrd9ciKkQ1Ai0DRpQ1glFly16WotlAbhkSuvzaxXeJ0iWCe332ZTmoNmtyY_04SjC1C1M12vjuOMVktaGh-qMhGi_ID-0O7hEY0LNrhwbcqd-EY5BTKjp6Sjt6wbgPx1kM-oyRYGWx8uxoaQeFJDxfrd-NkmZ3UGzOtyzT9wOTzXge0icbb1WmOS3TwW_AkDVcX7Xc_oPniEMSzcdJJySmPpktlmSzVCaM2cpRv3aOrl68_vXB3jmHikOWgmYzZOwrV10Lf3lxCIelBB4R4O8-8pzYBxd4FrKLWhuz8s6VU4r6a0d-7JDziVlj_Pg9J2kcKUYAt4oxvRyUx_4xYFI6R4RvjQ5liPk7prNsrBZdwIpGCRP3MhNW5vsRBXFABeRHs2lh84_8wxcHynZ_eyCrPb73rpHMbO5K6Xg3m2U5xJV0OFWVZoFu56rKnT_hURaljao4nZ_V4g..%26bt%3Ddbl%26ch%3DAQEAEAABABS-jbhgUlYOfjsC9NsWxk0wmNd5IrrhOso.%26mac%3DAQEAEAABABRSRwKNsihilYlF3LarbleYEvIPSaDTbWs.
+.netflix.com	TRUE	/	FALSE	1684323091	OptanonAlertBoxClosed	2022-05-17T11:31:31.611Z
+.netflix.com	TRUE	/	FALSE	1684323091	OptanonConsent	isIABGlobal=false&datestamp=Tue+May+17+2022+23%3A31%3A31+GMT%2B1200+(New+Zealand+Standard+Time)&version=6.6.0&consentId=74abb8d6-873a-4753-ac2e-7f409335aa72&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=NZ%3BAUK
+.netflix.com	TRUE	/	FALSE	1684281003	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQI_nfzApnCpN-guwAjBgsKIiX0zdiRO8A.%26dt%3D1652744954207

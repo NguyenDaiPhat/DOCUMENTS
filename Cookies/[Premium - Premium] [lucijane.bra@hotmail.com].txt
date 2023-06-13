@@ -1,0 +1,14 @@
+.netflix.com	TRUE	/	FALSE	1698187114	_ga	GA1.2.551057945.1635114840
+about.netflix.com	FALSE	/	FALSE	1666651112	next-i18next	en
+.netflix.com	TRUE	/	FALSE	1674420762	memclid	d221fd89-9270-418e-b41d-6c52757ed649
+.netflix.com	TRUE	/	FALSE	1669657005	nfvdid	BQFmAAEBEJevtopxueIwrJqLR7WRYp9gRowVFa2dCnRENBVP-WdWVN1kALlvMrovBf72fo1S8CVjktiD2DT8A22cpx8idabg4806WgyqyflYEBtEht931ddipPeyjNo6A3EN7MgxRXKzuq_jDF4ihs_mmrxGcWqP
+.netflix.com	TRUE	/	FALSE	1650660274	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1650660274	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1674420275	OptanonConsent	isIABGlobal=false&datestamp=Sat+Jan+22+2022+17%3A44%3A35+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=6.6.0&consentId=6c4a5e40-66a2-4f27-a9b5-d1ae79e7c03c&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1&hosts=H12%3A1%2CH13%3A1%2CH27%3A1%2CH28%3A1%2CH30%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1650660279	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A463.436%2C%22throughputNiqr%22%3A0.12601647650308753%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A502.216%2C%22throughputNiqr%22%3A0.12601647650308753%7D%7D
+.netflix.com	TRUE	/	FALSE	1674420281	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTbQuqK1AtZ0LbWoP_vuZijxSHH5nmA6us.%26dt%3D1642884282132
+.netflix.com	TRUE	/	FALSE	1674420281	NetflixId	v%3D2%26ct%3DBQAOAAEBEN4hlLnh3PvLpJsMrUKJ4PmB0HfdRBts3ikV34Gzea3NGLJ5v6NFNwKeYtLkmyvA6FBLxz3FiTkusvVPELLt_OXaOa2qqlc0In2TXZO6DITkcy_Z8eycBUUoOgA8pJ5BQRhAnS4GdvzddgcXf79T-lihy3LwDW6uwktlvrkF6MCkCwlzBE4DK9ywjrqx8xgTE8XCekEVEWcanhHVa3sroA-n4xfYRdQHqpNrFJRfg2pI2QyYzrn3C4FBxALwjHUNIoLpK56_r2dFhUTJyasNZpqWrJyy_cmkiYqcQn1RWvHQK-tTjAzoUlihGav-AHGMAhXNq6Nw_142tiTH84tzn5yNcBKF__hHJHhlUfmlJM59-maw6QTIBZxij__weC1nUXAvDgkk47kMyBfqfh-13J_xYBdarUVDwTLuV-HOme63lCOeTgLb_DTgxZ7m_idhJCKYooYDLSNO3ZBqSzQw9ojOoeWPDOLzLe_FFNrJB9NVKyH6Gy6IGJUV-GN-k_-grFnALuJiPy3Qpoq1n9tKdPfNrz8ZaH26ro4E1k7WQU4rMJekY33zziXJ--nkGBQJEGGE6RdtSIXApbCH4INe8dpvKCjYccftBwKJq8BT5VqDjNj_Z43TWq4KdyGUxJdA5qie%26bt%3Ddbl%26ch%3DAQEAEAABABSMj9aX-BqYMHUo7hsfjV804WLnOmoBm4w.%26mac%3DAQEAEAABABQfaUnTLqyGxzfdRggxh8J_hdL-vPSUU0c.
+.melhores-filmes-netflix.com	TRUE	/	FALSE	1683774013	__gads	ID=c4110062302b7cd2-229dba1b157c00f3:T=1650078013:RT=1650078013:S=ALNI_MbCssQ1oia_dQL5rL4XqpLmrqGCig
+.melhores-filmes-netflix.com	TRUE	/	FALSE	1650164412	_gid	GA1.2.1778335099.1650078013
+melhores-filmes-netflix.com	FALSE	/	FALSE	1650150011	clever-counter-51537	0-1
+melhores-filmes-netflix.com	FALSE	/	FALSE	1652670011	clever-last-tracker-51537	1

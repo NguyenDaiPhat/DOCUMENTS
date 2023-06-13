@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1672797808	nfvdid	BQFmAAEBEE2MB_QZhPrhRdepe5JF5UNgUDTiE_Zcm3qhmwM6wia00iyA182UJIKFvRmmr0_9Lef5UyXdvbB8KuDKHa6TXhY3YFf5nzdWoOhkDnJJNTfdgwpBVPNCfczUaHOixaN1SpBIoJ7CuPIfz1EtUajkrwyX
+.netflix.com	TRUE	/	FALSE	1655492203	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A1369.24%2C%22throughputNiqr%22%3A0.42941930206018525%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A2211.07%2C%22throughputNiqr%22%3A0.38007338772472704%7D%7D
+.netflix.com	TRUE	/	FALSE	1683137251	NetflixId	ct%3DBQAOAAEBEFEhPG5dS5d3Nch7AEhBPMKCMIdSBQYcS4b4kwW_ecq33Xcrx6TPIE33M5yJoLtjuo4Cg6NeuSTqaBpyXB7GzapjiFpyiXOP-lvJ2rg6yJEzuvRkykA4_MZ_Qbzk6o5u0qpx3bSKRqjyzKC01N9hWvs46hMgnwTHupXKs88dWTsbtmkRbeJDhytlyyvFwSd8QyApXVN2tyBO8LkdOQYfWphRF-SI9zEasu5JwoVH6KPkdqdPtZNIY-5zN28k11xDlrJeZvOpn6A9ohyHCPHekp7KdPB6jTdnZ1Kxn9ztgA_nrtGxECSkt1iKUZfhYQwd4qmS7sCsKerjijLErKqSEva6nfgBRXNOZl33UypYGrWOzIZPTxpt4065uqp7i1FJaVS25WT0pzBGjmG4YsaL2bCYPY8V_pOt9X58jQg96Ef-sqnag0iZ_M7ypOAQR9JJd_TIRLVCY0RCbwL7ThC7b9AM7ual7RZT2BOgPvVbn2R5ebfgPVSHgnrpyAZCE3isPtGuqfvuel6lJvdFJauiV8E3QHKK2F_B8-mDM5zBOJv9goz_fvkfGr2YW75nGLlYihU3L5JNtcjXhIlyVlNsaIBNls3mdpmz5Y4PZIjOO_c4m6v7jMb4QybhCNfNlyuvrbj5x-vh7sNudgnKPmzWhcTEHboUuBWpzCBtOGBJut_7-MmXWmJ7Ska3hvU1gDuXAMCigj_4A1BfAowddsYHfvhFglb0FI0okWInk_fJhMqQww3ug4lMZJeAJth6Ev7KuTTf%26bt%3Ddbl%26ch%3DAQEAEAABABSQIoPLmnTIFdzO5OaDGVHQS-gcVkbo_tI.%26v%3D2%26mac%3DAQEAEAABABRVNDl8-ZaEhhXA2Ic8yTVp7PH2lU7zfhE.
+.netflix.com	TRUE	/	FALSE	1683137255	OptanonAlertBoxClosed	2022-05-03T18:07:35.281Z
+.netflix.com	TRUE	/	FALSE	1683137255	OptanonConsent	isIABGlobal=false&datestamp=Tue+May+03+2022+15%3A07%3A35+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=6.6.0&consentId=6b58539b-9803-40a7-a3d5-4190c0633bda&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=BR%3BSP
+.netflix.com	TRUE	/	FALSE	1683137251	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTi_VLaGJUudqOkeUarhXIxSiUQ0u8n_YI.%26dt%3D1651601251020
+.netflix.com	TRUE	/	FALSE	1651612051	flwssn	434cf38c-920e-4544-b836-eb41c0271735
+.netflix.com	TRUE	/	FALSE	1659377252	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1659377252	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1683140848	memclid	3596e0d6-85c1-42f6-ba6d-fb2a57a88abf
+.netflix.com	TRUE	/	FALSE	1651608328	profilesNewSession	0

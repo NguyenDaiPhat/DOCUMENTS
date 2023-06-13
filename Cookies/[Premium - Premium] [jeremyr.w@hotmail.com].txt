@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1673014525	memclid	65e7b134-4309-4db4-97fe-c14ac6793f92
+secured.netflix.com	FALSE	/	FALSE	1749675715	thx_guid	cb0f5cb9dda54d92a74951d66b62c6ae
+.netflix.com	TRUE	/	FALSE	1641489293	flwssn	9b1fe3b5-6009-404c-8883-8a4c6e347a4e
+.netflix.com	TRUE	/	FALSE	1673014364	nfvdid	BQFmAAEBENrRIj5qqy9up0DjdAHgLmNgL9qGGD0sxZeXLVu8nhLf25nz2zJTxpeOgi-cQA7iC0Yd1SyMk_NZbLXTrXW3_QSIugfmY7iCm8qb6FJMFUPD4R-JWKAj4V5rHkfzmM5Zs4YY560aX60tqz_-xyLaU7l6
+.netflix.com	TRUE	/	FALSE	1673014364	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRQe-rNKJ7A5eRdwT5vwKeIeFJdQmUdJgY.%26dt%3D1641478363698
+.netflix.com	TRUE	/	FALSE	1673014364	NetflixId	v%3D2%26ct%3DBQAOAAEBEM32ZJMfj0jnXst6ldQwRBmB0FCBByeVtOfgTj7iFHTYN75zXNLjQkH77_8VBD6v33ZI_vFHbAU5hUJgifAPVRcmhCRXP6PGJHJpiBZI1nPcLfsVTUKZtHG9DkmmtYs1LFxygJUTkBX4MYgTIPXmQUB14oktipPHshbPTl-wzh5boWPkNuVozRZiqhqj5rnWFklTttdoXOUsocuEGWmGzi26QU3a0LfAYjtn0OfkMnlm62iyauvZIzgfVTs4DTC9wMUgUJJFPDY-U1GJZJA22R0pxoI_cHmJdDGVL63HS1dfIFj0c80rOMgKvHC_3SIZLPwk19vshVB3FSBxtdyBFFgeqfiN67EVCzoQhvvOLktawvEYjA9udPRCimI4GXeG9ukv9wR0ola_VSdz6Nb4Xvko33Gnvq5lxe-togsC_mfy9Y69MHXZlSNW9LA8QYtVmauGY7NBU-e_H_bhMUeADVH63u9xiAkdYZXghw3-_5eZPDghPjJ5pcOgisPurbvob2oIVgeXfIRNl1IwS7X6D1Grl3urPQIiA_q60CR_5fVKFftMs5bTu1OGj4_CZJE6AlMeqpLIeTYvszVlE_6JT2aVk59c4rdMl8Fax9GQyeaHJRrIQFwyW9tve2EERFKDM0Qf%26bt%3Ddbl%26ch%3DAQEAEAABABTs6cp0DueoYpUpydQYHdIK3Gll8Nvl2XQ.%26mac%3DAQEAEAABABQINrC94dZJfkpbdPLhmu6-66YkwCjl1Nc.
+.netflix.com	TRUE	/	FALSE	1641480280	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1649254493	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1649254493	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1673014494	OptanonConsent	isIABGlobal=false&datestamp=Thu+Jan+06+2022+09%3A14%3A54+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=6.6.0&consentId=9713441b-feff-42d8-aa62-5bc4372561a0&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1&hosts=H12%3A1%2CH13%3A1%2CH27%3A1%2CH28%3A1%2CH30%3A1&AwaitingReconsent=false

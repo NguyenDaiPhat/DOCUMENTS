@@ -1,0 +1,11 @@
+secured.netflix.com	FALSE	/	FALSE	1681416446	thx_guid	3b3a2a353dcd4c45bf86d7bf0dca4188
+.netflix.com	TRUE	/	FALSE	1655128431	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A34604.1%2C%22throughputNiqr%22%3A0.5176201329698079%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A34604.1%2C%22throughputNiqr%22%3A0.5176201329698079%7D%7D
+.netflix.com	TRUE	/	FALSE	1681946816	NetflixId	ct%3DBQAOAAEBEMyCNRlVwoKxm87Egkw6A3qCEE5T2G2aDe3WMEJWOk8MmWQN3fB0ftKHpviClDy4PgAGub6dH3FrQoA5e7q73ygXC_ZO5Z5k812KLFYtjoOSRptmPF1cLtv3W31gNY7DbB7A81RPUqj6-OdWUCWJOsPpe2z46qDNhUPxaHbtsD3dwhdCB2EBjFzYahJT6PXfgLFx-W03MfCLNCI1ncrVsNAvBuk6lOA34WaoUHyPKW1GjSt9NCFlHG_Xpkkarq2i_w2_dQN0nQYK55_WdZXxjgGYc0Xo2J2xwnp2CEhjl9V9_mbyYcmFGV-e_e0n1uVgGn3GzVcyrJB6tgnmm92bbHGuQSX1whq3H5rxJc1-_UXKvBsrdMQ3X7KqSv9zgiAdtgan-oLvC0Ydr57KYVBHb06VSRpHw99ftZ3JsgadRBaHACNffvb3pFSb9izU5Vt7KQycTOOLhYZMoyZ6hH2BSR0T0T9xFRAQvMWFbMFonjMt27SLxvUZUp9IFao40Wh9Cub5zctKxT9qzN-fUoWn-yHaaWLCvyLyBlUFTsCG6kafPkJvFWyjJVRH2WEHVLkvQ2FTxHjKAZbTdUL4yIn9aV4qd1stMmpRk3Avcvs6s3URJsgScwvXdh4Qg4L_vvuscrMTXQu7xb4zF6pKumdaw-Orm9htaCtiJ81nuYlKxltfjRnSMqLxHXh7_u9HdipedR2D7QIltKEm9sZolTKYtFlNyQ..%26bt%3Ddbl%26ch%3DAQEAEAABABRN8_rWPa5iDQ2AE2TyEnvc2RgpBQC11xQ.%26v%3D2%26mac%3DAQEAEAABABRj39HSlef8X4-eVD94GDRLVNOCI884iMc.
+.netflix.com	TRUE	/	FALSE	1681946816	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQ0zItbrhXztFC5hH_RLDZt8ZwRbeOodq8.%26dt%3D1650410816621
+.netflix.com	TRUE	/	FALSE	1683241011	OptanonAlertBoxClosed	2022-05-04T22:56:51.578Z
+.netflix.com	TRUE	/	FALSE	1683241011	OptanonConsent	isIABGlobal=false&datestamp=Wed+May+04+2022+19%3A56%3A51+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=6.6.0&consentId=37bbb103-8994-407a-ac91-ce16b7a74e37&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=BR%3BMS
+.netflix.com	TRUE	/	FALSE	1651715808	flwssn	1e050bad-34f8-4b02-8c4f-28078b4d8913
+.netflix.com	TRUE	/	FALSE	1659481009	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1659481009	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1683241009	nfvdid	BQFmAAEBED3VAyJLlfQYd_3BVJiFuaVgQjclia6ja-6GPv5YBOZX3P32Yv9_diDiF_1Pf06XLr5jYriru6-Hd_OEnpYUL0hB_Zb2Z9TYyWkYqHFYyQJzXYro2gx2GuxZ_n-fWzcVgB5FNsP4_mNtlwpj5xMFgsEE
+.netflix.com	TRUE	/	FALSE	1683241015	memclid	43ba0582-e587-4108-b6f4-91d6f05cd651

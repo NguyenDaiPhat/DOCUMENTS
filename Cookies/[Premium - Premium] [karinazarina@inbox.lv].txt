@@ -1,0 +1,10 @@
+secured.netflix.com	FALSE	/	FALSE	1709486650	thx_guid	3cf30849240a4b96b094d2a822559b0a
+.netflix.com	TRUE	/	FALSE	1676660540	nfvdid	BQFmAAEBEKtDhY67s4hKi%2FR5d%2FfNIwRgTCWTN1qFv9OXQ75AsXl37ckvyQIv%2BCpyc7Xz7cQWVLZUgmHGI8FIhfkEyiWtuFQsKUP%2BP3R5Hm3apqn%2B6pc%2Ff3ml7Vnjr2AXCuLCVo3kjJULc6emuU9r4D4q5IocVtGr
+.netflix.com	TRUE	/	FALSE	1682911021	OptanonAlertBoxClosed	2022-05-01T03:17:01.292Z
+.netflix.com	TRUE	/	FALSE	1682911021	OptanonConsent	isIABGlobal=false&datestamp=Sun+May+01+2022+05%3A17%3A01+GMT%2B0200+(Eastern+European+Standard+Time)&version=6.6.0&consentId=7dc21ba7-65f4-46d1-8180-bf10d969d0b9&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&geolocation=%3B&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1659151020	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1659151020	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1659151020	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1682958523	NetflixId	ct%3DBQAOAAEBEI9vPh-z2tzDubicAoa_7NuB8H52OqZEfXXCuNvxHKW2V8Mp37qDCLoktEO5wBpYYzNhemq3ttQYfW8JjtVCfDIWD_lO9erKl18Q0OotNplcO-q1ARdsR0JZx4reqwt5vtO9mfR_pQ4w90KaHOXoc4r-UjrYJe6vlUA3rE_7ujX75vvbgd1U5pwufjYCr7A584z0cx7dRCLzjgxDXMto6H3iyUg45QqYXDZQk63bP7wTtc2oSu_sCTktkBdn6R0aa9RqGfCXtI_IlRL9sYkSETM76VYL0uJCTt9F_Blngp_13M-KwrxPt0Jo7vMg3X3QJne5Y5DtxOKM8zuPul-1uXfMcY426FiqX4ZNuuyZV3tZKiH7pqsiOP4hE4Vh1mxdQZjDppZt5sH58FUjALJSaDRnFbyFVV9cE2XJVEQ3lMQvosBhomP9O1G9LmUsZO4lxIgsegxrfEc8U7yuv8_V28P_aCg3a8hPyXgj4485sb50IP6rikIdm7STv_Y1AQQbiw6N5bSv1Qi913EpVwbOmJmp0gTzpXYG6J4yxYD3Ysuu4RTxPA4WY_2-aAeq6hEZ6TeKOBDxdEAsYbAzpJ71D4GkK3IFBnxpbyqxjocuXEapQ9xA1rJkm3qcdOSfws1-YPj7SaQxkl5HBssMS5cj7ccrinF2QH-_FsR8nHte2AcPvfE.%26bt%3Ddbl%26ch%3DAQEAEAABABSK9bNSrweMoa2Tqv3h9SN2T7XyKcUuMtE.%26v%3D2%26mac%3DAQEAEAABABRlQhK8Mh_Z8b1BUCbTpXH--q6cR5uXWPs.
+.netflix.com	TRUE	/	FALSE	1682958523	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTGi-HbTxY4395QKr7awI14PxzUM7r9nXI.%26dt%3D1651422523186
+.netflix.com	TRUE	/	FALSE	1682997143	memclid	cf00e7de-2a6b-4475-945a-5c603b82538c

@@ -1,0 +1,16 @@
+.netflix.com	TRUE	/	FALSE	1669969517	nfvdid	BQFmAAEBEGTDt-b5gGNTb7S1lZK3spxg8nVW6xPKiYd7vNwZ-ApWQhq3gpNfFO8VoForvwXi_ESnSDsuim66lLtLNtvYv0_u9VO5orUF40hcN9RTNfTNC5ETv3R_ngyirRKKPTKHqwwfU-ktKNZxpQz3RKqJaUZ5
+.whatsnewonnetflix.com	TRUE	/	FALSE	1702704979	_ga	GA1.2.1536051929.1639632970
+.whatsnewonnetflix.com	TRUE	/	FALSE	1639633030	_gat_gtag_UA_93871809_1	1
+.whatsnewonnetflix.com	TRUE	/	FALSE	1647408970	_gcl_au	1.1.872719720.1639632970
+.whatsnewonnetflix.com	TRUE	/	FALSE	1639719379	_gid	GA1.2.2003242334.1639632970
+whatsnewonnetflix.com	FALSE	/	FALSE	1985146585	_omappvp	YVQVmDcCWJ1sHfMhartoayJdT3xcwMmkuN81242JiqfDJHZwL9eN29ZWZfJa4qaF7vvjWCWgxguezLas13mppzsKV7LSFLBd
+whatsnewonnetflix.com	FALSE	/	FALSE	1639634185	_omappvs	1639632985700
+.whatsnewonnetflix.com	TRUE	/	FALSE	1671168973	rokoAPI	%7B%22ApplicationSessionUuid%22%3A%22c4040f50-5f42-4b69-be73-5126ddbc0f4c%22%7D
+.whatsnewonnetflix.com	TRUE	/	FALSE	1671169008	_omra	%7B%22u7bgcaymkfjqyj6sniib%22%3A%22view%22%7D
+whatsnewonnetflix.com	FALSE	/	FALSE	1639719408	omSeen-u7bgcaymkfjqyj6sniib	1639633008248
+.netflix.com	TRUE	/	FALSE	1674458860	NetflixId	ct%3DBQAOAAEBELF6BlDPi4_bl2bb3vxOLSaCEJP75A8mXCxw1EHC34OfGAIPRcWaqwkI6vEMykD_Sc-MF7iBhetWxILX0dC0M8WDGqJ1miadq2MdC7Okgk7JV5qUqxanJH0kow44WI5d5yR7Net3Fsz9RXthMxNXr3ndY_eQzjjLChPnyDM9x0UpE3fephwjIHIoSBHMZ7OU9sntI5gK9c13Mq6NnwO_oVdCM6ES0HU2DrmKes3u79NbfyE2dJsLEC69ivuoHxfANx0KX8aJTFr95Usw969QR83mhCn9QjX0ijWKcOj2dM5EmiFFVr359DE1-utOLeKomvj6cBw87FhZQHus5NZEhzcl1gcZAoDvz4YweRaVRAQfJwrnbrQUf-QpSsMyfQHuUI1wcrGHsRbYtQNFrbxcRZJ147d9gN4t7dJ8ynudVm5vmqDI4s8iYLablCCpE0sqBJH6IcupY4ddFYs7NBcE0oE7ycYt9hMJGOjj4h-dAp8u505s0FFmlTW7BIpNyjmIjEl55GoUBCQ3v98rzEAwVBwJFKmYphasUPzNJJnVVdYiB3sJoNy_snr8uQI8znLApHEdQu5f6r9U__28jNRvpNIMWuWkuDiHJH2BYOnGG6zXTBla04zVmEhYhjR4j5PlNV3CrPAN0TcmpIAK2lKJAzgie7d1WJxg_b4b5V-Z0oVchsIsufjkvZzGutPB-D3nOrnq2zqtBiKPjF79H-G_Hz8ejg..%26bt%3Ddbl%26ch%3DAQEAEAABABSsop_0exPTM4N9JJDwE3XYavbiy0PwvIM.%26v%3D2%26mac%3DAQEAEAABABRsDNJKB2v8up7-f8Y80E1mTflJCo_wD5g.
+.netflix.com	TRUE	/	FALSE	1674458857	OptanonConsent	isIABGlobal=false&datestamp=Sun+Jan+23+2022+04%3A27%3A37+GMT-0300+(hora+de+verano+de+Chile)&version=6.6.0&consentId=376205ec-3c61-4471-801d-8333221c036f&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1&hosts=H12%3A1%2CH13%3A1%2CH27%3A1%2CH28%3A1%2CH30%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1674458860	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSEkyomJbY9eeNrw7BEjg404A8cAUQ_zd8.%26dt%3D1642922860559
+.netflix.com	TRUE	/	FALSE	1650698856	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A9754.89%2C%22throughputNiqr%22%3A0.5856320040538836%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A9754.89%2C%22throughputNiqr%22%3A0.5856320040538836%7D%7D
+.netflix.com	TRUE	/	FALSE	1642924690	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1674458999	memclid	794d43e0-ed1c-4021-8a55-7d4a1b195aef

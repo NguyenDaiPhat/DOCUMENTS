@@ -1,0 +1,10 @@
+.whats-on-netflix.com	TRUE	/	FALSE	1673552227	_ga	GA1.2.2036322488.1610480227
+.netflix.com	TRUE	/	FALSE	1676566455	memclid	ef4287db-90b7-43f3-9fee-c00708491216
+.netflix.com	TRUE	/	FALSE	1673224021	nfvdid	BQFmAAEBEHSKJ6g49AktmkBAKsDE-vhgjUP9ECY7_H2aVXBDtKnbpSvRVUAfIQ2nnnNPc7RYKr5i8rtTzXQ3CL7d_J0Be4GIZzvJrVbVrZPolIOavPOqZsibV1RtXGnE-fRRwSMDljxtlr6rc5hrTnkYrV09X6W4
+.netflix.com	TRUE	/	FALSE	1652805456	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1652805456	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1676565458	OptanonConsent	isIABGlobal=false&datestamp=Wed+Feb+16+2022+13%3A37%3A38+GMT-0300+(hora+de+verano+de+Chile)&version=6.6.0&consentId=f2e1c935-ef9c-4db5-a5af-a086251d47ae&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1%2CH28%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1676565458	OptanonAlertBoxClosed	2022-02-16T16:37:38.259Z
+.netflix.com	TRUE	/	FALSE	1652805654	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A74.5139%2C%22throughputNiqr%22%3A0.6090637679666007%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A172.482%2C%22throughputNiqr%22%3A0.6090637679666007%7D%7D
+.netflix.com	TRUE	/	FALSE	1676565673	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQu4zYznEzonL_UeSOEImgOxvbFwNThBdA.%26dt%3D1645029673862
+.netflix.com	TRUE	/	FALSE	1676565673	NetflixId	v%3D2%26ct%3DBQAOAAEBEFQxf529OnA6udcBc-SynceB0GJWzSH1A_mXSIsXpuF-vsllUubqyTWOMm0XzPs6qrlB9J6TphzUhJf3sDx147KiYeosdeImMcveRpYR2AOdnq8706Ml7-FFCepZSKbywNwA-hgWyyQX4uxIlsXJrA8wGcTKRXQehGBUXC9ENwVOaQ93MymPu0HyAZ4UX5deFVF4OHP_tUdgwg3UPOgAcwYAsgt0fm9mWsjDQjrzd1hyRLXrXZnjLiFnOdMfJu0mnzAsbL19L-RyrXf1wk9YmTwx58HZ6bnuJzOAV_slQmKn98-1uzAEnN1EQSye4I6uS2NmKnLj9EilqC4onGR6vYw8sDR6V7SiKus-D9AoOQWl5CdsWTVN17pHPWWJW65azDkhmJpRNucwjwFk6CF_NbY-ax-YhgynDlOcwaVufnXUdNV5TxXBg-Y-cRhxKCj5w1B8fOnm-p_OQsdFFz75J_QiYHZYc1ZwA84kpKPJ67DZvCarAfIMWTocVkiNyrkngsgqF6iH7WPUfvaWNpsXOGV3epuJmVqpjGTnpuLMq5XyrPCFibbHFn0nthvuHB7IYWAME4iOH7IskweM_ZDHTOQRpyHlmN-Gtsye64BCyg6SnqcYKWfHcgJaUltjEpH0YkWO%26bt%3Ddbl%26ch%3DAQEAEAABABQfVFSL8ko0O0GsOCgUY4qE4zCdhuuXYvA.%26mac%3DAQEAEAABABR13usqBkVoDHRhmV_Cec9p3EUN_Lstnhk.

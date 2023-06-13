@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1664476725	memclid	57cf8433-d7d0-4c0f-b167-0bd1c8fd9c3c
+www.netflix.com	FALSE	/	FALSE	1645389401	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1640713041	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1691223305	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1659645433	OptanonConsent	isIABGlobal=false&datestamp=Wed+Aug+04+2021+22%3A37%3A13+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=6.6.0&consentId=98ae2895-bbf3-4880-980e-c9dcbe04e694&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1&hosts=H1%3A1%2CH12%3A1%2CH13%3A1%2CH27%3A1%2CH28%3A1%2CH30%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1659645452	nfvdid	BQFmAAEBEBmAUpefZPuGCxzm3D2qIgtgwBDDEZ5VK2wU-989ZAiN5jhuBzF6CoAW_365kj2v5uVOpWf6UP0LhvMTv1r6Og-H8L8NCW_ZSpoidZn3457zbmS6rZcFk4jL8QkY6IzsgKlp2pmjDfIxLjsPpqFC0c6_
+.netflix.com	TRUE	/	FALSE	1632942507	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1640713048	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A64696.5%2C%22throughputNiqr%22%3A0.39083747154246107%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A66015.9%2C%22throughputNiqr%22%3A-0.025745571624339086%7D%7D
+.netflix.com	TRUE	/	FALSE	1664473716	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQYjZ6M3Ong7cc3mLvoDhnPI6nj2xpdrnw.%26dt%3D1632937717156
+.netflix.com	TRUE	/	FALSE	1664473716	NetflixId	v%3D2%26ct%3DBQAOAAEBEJkdW0E2vOiQpc7ekqwZDIGB0FbRMy3tssf4RLOjM_giF_DqXbX5o_a48PJWOj1hj-QhF9eqRCH5puwe50n2zMGfJpXTAeaGDRhIv-l33NdDQqBl-m377hPxZBjbilA3nzEmBzOQgjn7GTM9nN0UWWYCXJ-HE2NLjVHsFt2Z5pG0dlc9RDniETCyTds9rHseuzcYjL3Y5l2cANcAPsly5-jXkROKIvCvuyVVID6ozMp1vhz4QV4DUac8ZQMP5siTTkIXqAir--OQyYwkaSLVTd8m_UJMpbArWxDi0IFGpPqbLVwbfVvpASVQEMW5spmKWUXD0F-NZvEjsAkI-S9JRwysvKRuKuYJttjwWjllgRaCLpAFci7yjqG2xJSnvNDu2CAJbtwXRJt_Voze-pNj_JJg4ZnE5ay57q3IiPuhuxczaaagamWs0J_ZDgsJoHnT7kDc4Yv5SdP1hUb8Ld3rGAkUcKQlbiSi0rWP2Gvhr4Ml-DfSK8zr4e5m3SA2u3OJhEtjAiluMwJ7q4kWMjNnnWvii8zYJQ1Jbf1dkgXyKG-E7mvNT90Cv0RaOdDCfMkwhe8S6kfqrqTQ303Q3qfJeIf0HQVCPmUPB11N6nGj3r3iYrDOzwqrugDvktLYZMte34-n%26bt%3Ddbl%26ch%3DAQEAEAABABSNiBfpbW97NjCa-_RczdWuXVesPpBB8jA.%26mac%3DAQEAEAABABQtG8dPE4C1DVBt0jofys5P5GwAzi6fLGc.

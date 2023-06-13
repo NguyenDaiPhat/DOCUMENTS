@@ -1,0 +1,10 @@
+www.netflix.com	FALSE	/	FALSE	1637416169	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1651672252	OptanonConsent	isIABGlobal=false&datestamp=Tue+May+04+2021+15%3A50%3A52+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=6.6.0&consentId=5e6b1565-2151-45f7-9fbc-4f873bf388f0&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A0&hosts=H1%3A1%2CH2%3A1%2CH12%3A1%2CH13%3A1%2CH27%3A0%2CH28%3A0%2CH30%3A0&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1620147083	flwssn	b3105f77-9540-4726-b452-8a944ca61592
+.netflix.com	TRUE	/	FALSE	1651672286	nfvdid	BQFmAAEBEBVcPoFYasRmjxWrDSwAi7FgrBU7afzG2KrzYP4wvNzNvbGnx7a1w5rSrpKrMeL-p2NIq61E0DQAkYCizPE8t-BPCs0DEaM9DjCgkI6G_qYxpzkCq_vYNfnUpfje7JXhRtphEE1Z0-MNKqvtyhprePHp
+.netflix.com	TRUE	/	FALSE	1651672288	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSchxNyDWtwf5wZ1OZFpXh45-cX4XNxmEc.%26dt%3D1620136288429
+.netflix.com	TRUE	/	FALSE	1651672288	NetflixId	v%3D2%26ct%3DBQAOAAEBEKqpJrYH5s4DhZcXMVIHxS2BwEsS0Vtlz_PWZtq6_D0qlFHotXTLvtI8BdChRTiUYv474rp5eydnZby1t76IpSh1EAyu3lcCkbYamoUnxkLqRsTXwTjFvzHRqStXOkJQEigq0Fs7aHf2N2_x5pmzpiZwEIorK_xuVx7mgRjjD-4GeV7HtpLZjtC-v3g2pRtcqAn8g0VdR7mIeuWyVEnpSVehNPNxP4aJ98SDxLryk4124e2Ebg2FqWhiXVnmfHwvaL3IzEitGIA0kMgXswX1aUsHTj2q-EOInLiTKSVeqc-Ifz9lgWhbyH_V-pn8c99rXbE4Xs5letpKyl8cGORsto5wJNZ_jrcq6yuH34Of8jDvuVIWx1ayXSjHLq-9OjVuxw-4KlYrIrZBcQ3wfLvos_e8F-ST770BS5nWy1O1eNZ9mAKqyjdVpfMOO4Xmpm_tr96ptkHpWzBjpwC5PbLEeHtTMJF7EJqJznCR5Bk9mM4LT_ok4O9REls2f-M1d1jB4e6CdliGosnOOrRoDN1a-9vfA83KbSAIMZhLJ11I05bvxSClmpe2hOE8e5TW-sY9ArwPKgNicI0v50zNMsMsinNoCJeCT7fEl-a6sthkmAvNd4g.%26bt%3Ddbl%26ch%3DAQEAEAABABRfoUCEDAZO9M5yiFKggejCsFKgOOu8CMs.%26mac%3DAQEAEAABABQkUsyUU75t8LQ7yKa62pNLVTSoXxl2KHk.
+.netflix.com	TRUE	/	FALSE	1627912294	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1620138407	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1651672608	memclid	e066cd0f-9787-4ed8-93f5-203c6188fd00
+.netflix.com	TRUE	/	FALSE	1627912618	playerPerfMetrics	%7B%22mostRecentValue%22%3A%7B%22throughput%22%3A136.385%2C%22throughputNiqr%22%3A1.003134064068532%7D%7D

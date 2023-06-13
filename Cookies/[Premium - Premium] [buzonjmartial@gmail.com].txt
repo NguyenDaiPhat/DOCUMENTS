@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	FALSE	16836735276238228	clSharedContext	9ee8ffed-1017-425f-a10e-dff81aa92f6f
+.netflix.com	TRUE	/	FALSE	1678224679	memclid	cf5f8f7c-deb1-4b04-af3b-87c24b0be781
+.netflix.com	TRUE	/	FALSE	1654464645	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	3728575026	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1654464645	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.www.netflix.com	TRUE	/	FALSE	16836735279489667	cL	1600201286912%7C160020127840463440%7C160020127897065568%7C%7C4%7Cnull
+.netflix.com	TRUE	/	FALSE	1658874982	nfvdid	BQFmAAEBECVLcc6_ko2oZnfeS-L651Rg7oSIC1A7PfN9Cqi1h6Fzcd_WWz5x8BJ1N6Vw5JePhqTQmNOk8F9d3llNhIm7tLNj1xqWaYn5CVHU6USf7wYmDuacWBnFOetM_-KU1YlRG4fs9YwO-8hpNuJI-H9-pz3X
+.netflix.com	TRUE	/	FALSE	1678224643	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQZ3hcR-MaKHFzc2YScXPGLCd1beTei3Fs.%26dt%3D1646688644947
+.netflix.com	TRUE	/	FALSE	1678224643	NetflixId	ct%3DBQAOAAEBEBQkCzJF7WhzdVGYiE0q8iOB8BNcJF48dxceSsp1OOGEAqNpxOkbaLmH_OlDYJi6tNe3-S3aCQo7B6r82sdfWrT-bLi5uSm1TKPi3kbKudjXgwH-CIAVXcx8ih3ipDcZcXRj7C5kjtzyPHbRQTF35-rrw0LPgKD6xtggtwcwKHrL0GTkx6Dwdg9SGcYqFUnZXNEGeEqAKKjXdt7FvWXG3sWzTnOgvQ_27X1N2ywchpogMxl94eOwrzarItOM-sJ7T180XnOYfA1OAO2j6oxvUqkP_B0f9e0-IDPSMKS6CSu4ihpP4P6LzRtFHoSggqv_XrUEaKsyxfvLHi45H-HXoOt7sxaAXmNBtJZD9LdLvurSUff1SL5-hQyUXIwbFcV0YyLem_bZPFCAMtgxRejYxENmWiMikhg862yO3rzb5Gx48HqqSjwQ4lm_9-PdciUbY7fhNLx1_B_MblPTWWFcJGL2yDZxtNIdk6PHj39-cm9l9OHp-adPRPUb7yV7bdqVtxqPi7crSPltzvbAnE5a9dUhkxAvV7wvi1fo4hS0-7SbTOL_4zsXu7mjY6wYTjpi8AOnqdcLjMjXF-q74XuR_xfkWkqEcgC4H9klrWuluK-Idd3kBnNxEvHv4aaD_Y3LR2qLGdlK-uXPmx9qZVsoTpl4C7G4bSeAOYWofAAhlOb6Cao.%26bt%3Ddbl%26ch%3DAQEAEAABABRJlu-qEDtxqJtSNNHRcx3EBXJwLLz7U7A.%26v%3D2%26mac%3DAQEAEAABABQQZ_44-r9ZJAvvLtvV9o3BdEsrcwFveMA.
+.netflix.com	TRUE	/	FALSE	1678224646	OptanonConsent	isIABGlobal=false&datestamp=Mon+Mar+07+2022+22%3A30%3A46+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=6.6.0&consentId=7b11c12d-cec9-49a4-993f-7b0135b87704&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=ES%3BMD
+.netflix.com	TRUE	/	FALSE	1678224646	OptanonAlertBoxClosed	2022-03-07T21:30:46.562Z
+.netflix.com	TRUE	/	FALSE	1654464670	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A94491.8%2C%22throughputNiqr%22%3A0.49466786397026197%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A95667.9%2C%22throughputNiqr%22%3A0.537508574561614%7D%7D

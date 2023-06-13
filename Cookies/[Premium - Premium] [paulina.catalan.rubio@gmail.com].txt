@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	FALSE	1655756777	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A12379.7%2C%22throughputNiqr%22%3A0.8037314265508618%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A12379.7%2C%22throughputNiqr%22%3A0.8037314265508618%7D%7D
+.netflix.com	TRUE	/	FALSE	1680399900	nfvdid	BQFmAAEBEIoTcZNRatOjPbdFuSkwdytglefy_s7tBFMX2TKdg3h-4iJdHbMxGwGBq9Tj8rxamKiYY_l9cDMJ0vqYov_w0R2c45ZWleKJZm78dZ0fETp_kJiqd3hDuy_DCAvNyCGSVWdn1UDD2U3Vf5NOKVqq0xd0
+.netflix.com	TRUE	/	FALSE	16839936060003753	clSharedContext	65e4efc7-6bef-4de0-b3d9-768c745c1694
+www.netflix.com	FALSE	/	FALSE	1652558007	perf_dv5Tr4n	1
+.netflix.com	TRUE	/	FALSE	1684001876	NetflixId	ct%3DBQAOAAEBEOQWp6xg2e9IqG7Jes_sVLSCYDk1FC56zHDl3X27oWuCsN0lo_Nh8q5boeGAcCxEm8TVvxNrP_e1B1eBURFUieOM1cLUNGmtj0UYNdgooUtVJ05-noeTnOLFbgfqYxDn09tN4Q5ptJJGeJeW-lvkbPvB-MuFb5GSYizjOJYAE2IU9zjHqTkBsdu38RD82uC-3T_6aZyRhhX2GPEaUuMTaLKjNkWYmZNYB6g2bcmx-1ZY-kTlBsm6hdpRUDy4gTt01I8Simn3_gUhRz8OGRaG1cqX4U_NbUqZ6y-QteyU1BuBxUyCK3klIXMp5R4lyx4CzoyaZmQx8-336s0WHopLT0WW_IMaBG0h_OwB_tZu7Ca6VxdqDNIzcAvLrRI0s7Pt413u4QlsE_vEY0HSWyAfLxlXaYwbhMqjYV5AI0KTu15z52FCvFkEI6ZnNVgbdbxz9q03d0HGUBwDvXFZ3ZC_hNvaYmEZl0_o_uervlZFUmfL9iCPKB-StapoWxGib0IePVI9GnHUMpNQBybbf7pUwyV5l8FI8remErRPXG_cQSggdQOPrgmhQHI4hhb6OMBe-0Wnc0N4sIF6m_vU_SLrEZ8lmpTIs-ffN8_FFHkLbXN5jtBjF1zLqYhtlt1CrLgsHYP6IBsEKGe2pzyXuJyG7KXfhx7N6wZQKgj4Xwnnfz4uHhyKnRY6BG_SUrJ3Cpod7iVGtbJBQusViNepVfTA_JCIAanYnzYMUHBHCgX5updgulEOF_EyuOrEbXHjp2lOlbVpV7NSNs0WYslOZIZpXlS4LnUhXDlJ6Eme_SMdglnL-rFZ2mgO-5E9Dfv55CJlv7YL%26bt%3Ddbl%26ch%3DAQEAEAABABQ-IqaNpNWaQuQhmPba6w5oRFp82XWV8w0.%26v%3D2%26mac%3DAQEAEAABABSdKFiQMSdSRSvxwiEutq54XSPxIxdPTfI.
+.netflix.com	TRUE	/	FALSE	1684001877	OptanonAlertBoxClosed	2022-05-13T18:17:57.712Z
+.netflix.com	TRUE	/	FALSE	1684001877	OptanonConsent	isIABGlobal=false&datestamp=Fri+May+13+2022+14%3A17%3A57+GMT-0400+(hora+est%C3%A1ndar+de+Chile)&version=6.6.0&consentId=ecacf5d0-c4bf-4ada-93d1-c0dd2612724f&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=CL%3BRM
+.netflix.com	TRUE	/	FALSE	1684001876	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQ6uCXezhZ8_6lP3yfq1JaMbkX3p88Xy0Q.%26dt%3D1652465874473
+.netflix.com	TRUE	/	FALSE	1652476676	flwssn	459a98c8-cf15-4e80-b519-46e660eb160e
+.netflix.com	TRUE	/	FALSE	1660241876	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1684004241	memclid	a7059f84-839f-4324-a6c1-fff0dca6d686
+.netflix.com	TRUE	/	FALSE	1652470581	profilesNewSession	0

@@ -1,0 +1,15 @@
+.netflix.com	TRUE	/	FALSE	16830409026899292	clSharedContext	c8782577-e5e6-46f1-8c22-e5bd69d56cb0
+www.netflix.com	FALSE	/	FALSE	1659215046	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1659215062	nfvdid	BQFmAAEBECFkLwPXAniI3QBqkFRQIwtgUacN-ChLQdUIPOdd30526ZNGrqu1pznsxCPg7fyHjQdb413XQukaf1aPbX3Uz7qkPUV9d5fMqOnhd1QMuWFiAaw1GLfg4O9yQn2FCaNitRKGHl1gFs3y1piTQVn1irdK
+.www.netflix.com	TRUE	/	FALSE	16830409026909310	cL	1643663062817%7C16436630568697441%7C164366305680593238%7C%7C4%7Cnull
+.netflix.com	TRUE	/	FALSE	1655459093	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A84826.1%2C%22throughputNiqr%22%3A0.2739244874752267%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A82913.5%2C%22throughputNiqr%22%3A0.11582229008666725%7D%7D
+.netflix.com	TRUE	/	FALSE	1665599792	dsca	customer
+.netflix.com	TRUE	/	FALSE	1666905935	NetflixId	ct%3DBQAOAAEBEJ3RyN9Ji2LykOOpKC0Kk4OCYCJiJ-qd5Pc8C9HJjDqZYpDsyyBkHmm3-h4C3KbRhWFaVN4RI0BjnlJDZfdJiKAzncGhmoKn1T0K7zWYoQ3VIdfyPxva_hxPHWmRY9tFEGsHjjGkIueLd55j33-Sm6kpdKYJTf-D3rLj-9gqyNmyTa75u6TcDEqyH00u6wOEzD0kQsCUMb4o7bFifK1cx48I6MApSo4ONl-9LA0ilZXqe_FE6WBku4qoTwwO4xQ6Mv9NsObNTe5dqlbflEroojTV4L8JacyTx_N75HvkFhgC1Uh45DQXyqyd6fWA_SEe3SQkSlEF9DDdziENd3n27I9C7koj1YZ355vr74cxhl3Sa4gfr55x2h2HvEmJsME1wVCea1l1Zph6Hdwv13TZkUQDnevoFrhsNYk47tpEjK96N-Iip2fCFxYMjgwszXVovo_iVfYJd9s17wcbmF01VPeFiCo5HlEY0iq5DwFKkXA2wFXlv9BS6IgQO7eikYRqhlv8LDSHBPDTxH6xXfaQs_bGE8x-UGDFS_GBXAlgNCdWOOULEDtAFsj4CW2aWgqTL4kXdzeeWJJoYuN5RfuogPdDHSxiOwKcvMtfAXBB1w0tIFg8MB0BM2t79657PaJDc_ISWeX191K0UlQ0BFL7SqHoIiId-70NAAJ9n72Z-ozYxFzzq6jtnIuy3pAqPGdpVjKBgJjx74qla1WaC7uMLqGBhOTkNrcgFdcN-ObG0ax_azto_46i5fVdHFypOVAE8irXFizztCJOrYVhjdbd0w2u6PSrjU5obak3It94poQEiHz4nSFIDmcHUPwpWA-FxX5q%26bt%3Ddbl%26ch%3DAQEAEAABABQ3mYu-Ab5V-wOrmbqEhjTsRzamz7wTtoM.%26v%3D2%26mac%3DAQEAEAABABSy92MTamLIp1F-NuqK8EcS_bhvc9nBuys.
+.netflix.com	TRUE	/	FALSE	1666905936	OptanonAlertBoxClosed	2022-04-30T21:25:36.846Z
+.netflix.com	TRUE	/	FALSE	1666905936	OptanonConsent	isIABGlobal=false&datestamp=Sat+Apr+30+2022+23%3A25%3A36+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=6.6.0&consentId=4be0af9f-d629-483b-afa2-5194758cf8aa&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=DE%3BST
+.netflix.com	TRUE	/	FALSE	1666905935	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABThqhFpsClu1kA1kyZpw1wbBpYC9tkvkSc.%26dt%3D1651353935277
+.netflix.com	TRUE	/	FALSE	1651364735	flwssn	372d41bb-d472-4967-bfb2-6628a994e9fd
+.netflix.com	TRUE	/	FALSE	1659129936	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1659129936	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1666913875	memclid	01c22fea-e164-4d3e-bdf0-c7ae7754fc65
+.netflix.com	TRUE	/	FALSE	1651363668	profilesNewSession	0

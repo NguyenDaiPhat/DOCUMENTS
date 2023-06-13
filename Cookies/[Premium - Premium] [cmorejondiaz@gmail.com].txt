@@ -1,0 +1,11 @@
+www.netflix.com	FALSE	/	FALSE	1664494518	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1710328422	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1678750524	nfvdid	BQFmAAEBEF5oaEeiDkAzXhvFNT34kK1gOxKALoRoei2-yMurudp-9Oc08zyrJbR4DLFIEWgz2hnBBnYsbYSEbO44t-icFV439UIaRvayLsaWNUHV5n-f6KKxxAMpsVeUXKTfA5TJKmznRqHunsvKnmOi4Sdo6_fe
+.netflix.com	TRUE	/	FALSE	1678832855	OptanonAlertBoxClosed	2022-03-14T22:27:35.740Z
+.netflix.com	TRUE	/	FALSE	1678832855	OptanonConsent	isIABGlobal=false&datestamp=Mon+Mar+14+2022+23%3A27%3A35+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=6.6.0&consentId=ed5fa727-5e7f-490a-8ad5-02a5de17ad85&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=ES%3BVC
+.netflix.com	TRUE	/	FALSE	1655072855	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1678836579	NetflixId	v%3D2%26ct%3DBQAOAAEBEK2QqMY1aLNoTI3UZo69z3eB0AJmqfx_4QZoCnuZ8XCCtrEDcZUpTbFOp8z7tZLFYFyBO0A8bdogMYW92wyxCxYISjrtAfDlxspb-Jav0Jf6-inuTCsdktlngfvMbE7tjK0uHltM3rooaMiWkTHdzfTrOhAmh4PJAfzGK04qXWUDb8QTXNGAgl2BGW0QS7SQpiKHbGdpdzAQAKqUPDhVbS9gbg9z4W-HsZL0xNNIHNMv-bGbFXp_1wpHcSU-qsx3dCZEGL54SXBrRlhOrU48gsxBAkTu36MO1SXhfbkycMIbQqSCh3n4R8dHPcvLmXyczra-tHBkDvDTvGwPtToT12BFcINpS2zMX8S7K035XP30bKjgb8B8P_Rr3MldfxJItIuznF7i6maohhkQKN2_rb9REiqYskhs9kdSOYRhG955EZbB8POP-w1mPNSXfD4f4v6pC6MlQr832aulkSmG-i97uxokKtMQ7sfbaqHe0xEz9HWBvtF_0I8bSWWF9QhwR41vFNcPPwGLwz7W-kp0IsR6k_PVQUn5m_BnOTjSVsX3_vAKsWPwZa3ETkRUsAgFNo135-3YTJS7nckkc4GJiHZ362CKCA8WgXR7tzZ_hZhJJeFyGjSTWgIp_wiaouhXSLge%26bt%3Ddbl%26ch%3DAQEAEAABABS9H2-T_Y3b5BQQa9jmLr2LVKCVsbUWu2U.%26mac%3DAQEAEAABABRAi4oBl-5E0fmJZGjmNRcrjbLVcWvT2yA.
+.netflix.com	TRUE	/	FALSE	1678836579	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQxfvRsIo6fad9vFiH_iXhCv72q-eXQJQM.%26dt%3D1647300582782
+.netflix.com	TRUE	/	FALSE	1647312346	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1678846587	memclid	5e19a914-ca7d-4097-8fd8-0444aa277a7f
+.netflix.com	TRUE	/	FALSE	1655086589	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A9571.6%2C%22throughputNiqr%22%3A0.5431215981534626%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A31475%2C%22throughputNiqr%22%3A0.1778924584076075%7D%7D

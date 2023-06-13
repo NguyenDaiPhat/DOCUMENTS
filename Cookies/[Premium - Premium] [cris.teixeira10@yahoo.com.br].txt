@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1651545409	flwssn	7bfcbe81-30cb-4a91-b46f-6e7c9a0ddc3f
+.netflix.com	TRUE	/	FALSE	1683070609	nfvdid	BQFmAAEBEOzYk2TKKbW9G8STB6-buGFgFGefXgHC-Ho4Lglx5ztkX0pwD8RhGmpzX2_iC9rnBwvjCKS9HyG9SVPyLFLzhau24yQosYb_3gV6bWMqIhLKjxqKx1eK1RUIvQ7vSwgc4whSFNbdFrE9QuV6AEIcLvM-
+.netflix.com	TRUE	/	FALSE	1683070619	NetflixId	v%3D2%26ct%3DBQAOAAEBEG3QQWGwDAU4-wRQQJvD6DSB0NL3W79qpQqyXs-TIbYpFkVROHvWg3Zus6IezrEauR38Lo3o8do1c33JPFZnO8sQ8MOAVOjjDhiAehghpnxlRGzc3kDqCsM35pTZ_wlbwV-KLQ56lbRdbm1xp6GB034lzE2EaMGl9a45vGKHhLlfR_Vf4pYgJRaTLe0G6N1Pjjwzkpx2G9LOa65N2hlfDpL0H5tU-9A78a_XCsf8oMXEqobNsPrSl0iJbdHNQxsjanlYlE7fVL5gvDt6QQIvQDuIxi6-S5cBHPUSgWCnT7Gjfzi7N8uLzQZ2mtZfcjxFwXKoWyosG-xMo7COMnSeT7SRcF0Stqr_i7WJIYOCa90cSv6D-KDuq1fZBghIlkaHsvLdB2mUso7fsbfh0igok_HTnlqVJZeeURrgWj6xJIo2bPgJgIMOsNd_tMMhA8D-balzyTWfs2MwB4COutuQu76z_FOrl4QiffzhNf1sd7GEx8oOoqP2PoyggQfAYPf3YtQ54P5rku-fqvvcoQkHTy1tcD4q5ZZhH0iKbtQUXF1ePsUhCPjbNViOnjUE0wOqx-kAk5zJ66yzynD1O3d6IKo8uty8zquatI5TDvYKB-mUTYPSC9hLDYKAlh9BgI_Xt0Ag%26bt%3Ddbl%26ch%3DAQEAEAABABR11PBad6s_jzQBOAP7b8pErua6q7-C3a4.%26mac%3DAQEAEAABABTGU5IS-JKE18K_LLUEAu8tLheFq-nOEH0.
+.netflix.com	TRUE	/	FALSE	1683070620	OptanonAlertBoxClosed	2022-05-02T23:37:00.448Z
+.netflix.com	TRUE	/	FALSE	1683070620	OptanonConsent	isIABGlobal=false&datestamp=Mon+May+02+2022+20%3A37%3A00+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=6.6.0&consentId=9aecce0c-6b9e-41c1-a088-5a09af8029ec&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=BR%3BSP
+.netflix.com	TRUE	/	FALSE	1683070619	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSCkh2Fo2I3-ZrYDphJT7feE7Mw0xmE6vU.%26dt%3D1651534618471
+.netflix.com	TRUE	/	FALSE	1659310619	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1659310619	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1683071043	memclid	610262bd-cead-4421-9baa-123e7600e5ae
+.netflix.com	TRUE	/	FALSE	1651536839	profilesNewSession	0

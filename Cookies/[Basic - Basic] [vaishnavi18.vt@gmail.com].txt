@@ -1,0 +1,11 @@
+.netflix.com	True	/	False	1671179750	nfvdid	BQFmAAEBEGA4LgBolvCgkl1aKT84YblgOT09Ti4ni5_Z6r7QJymX_yUibNibyEIc3YQD3EKTKxAGSe_8OrOSfOuOIn3NupB3KnkVkuRWMzNY_BPnqCnXop2yY2VX0E1JgxqSy84Quf_NEFeLtwN7-CwMmRaAXTvu
+.whatsnewonnetflix.com	True	/	False	1703695173	_ga	GA1.2.1348977004.1640623174
+.whatsnewonnetflix.com	True	/	False	1648399173	_gcl_au	1.1.1439502085.1640623174
+.whatsnewonnetflix.com	True	/	True	1672159177	rokoAPI	%7B%22ApplicationSessionUuid%22%3A%22fdfdc998-e99a-41ec-892e-50cc98f270f1%22%7D
+.netflix.com	True	/	False	1674044128	OptanonConsent	isIABGlobal=false&datestamp=Tue+Jan+18+2022+17%3A45%3A28+GMT%2B0530+(India+Standard+Time)&version=6.6.0&consentId=d07f3451-8a0e-4a80-bbc8-43fd074442ab&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1&hosts=H12%3A1%2CH13%3A1%2CH27%3A1%2CH28%3A1%2CH30%3A1&AwaitingReconsent=false
+.netflix.com	True	/	False	1674070569	clSharedContext	e844bbc4-04b6-40ce-80c9-06ffde965546
+.netflix.com	True	/	False	1650284181	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A64565.5%2C%22throughputNiqr%22%3A0.3375456670205336%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A64736.9%2C%22throughputNiqr%22%3A0.42245326019656027%7D%7D
+.netflix.com	True	/	True	1674044898	NetflixId	v%3D2%26ct%3DBQAOAAEBEKu8ac0z7uQ_ExNBDkkhiX2B0E9_7PCbFAY_-DNzKHHxbY3OqoxHhjSO71Xm8CN6fdbHaSpyTn-HRK1Iw4lgWaPqud6wmcTA8xx7Em_Qzj5-mMb5MqirFpCmdwF9MEXqIiKYPh0afL1xKEbe63_2kQuClCkdxHe2CKbkAYoF5tOcOh7pHqoOpN6dpihrT-CXHxui0b7M6561jJXYQuXCt5nrjJOpdoHFhnTwnSbR6S0OngV0e7mFjtGuq6Y1kvi3zylbVDK-FwKSnQTpw87p9utMKB_zpiHe0a6caynrjuwvJiy0skwEdrMxwYD7qYK1JwEjNqfsjzNLswMbY7oLHL4qOBj3RG3vgNinf5TlOxxEp9VH6-gWo9Ohca8czJkDZEl3DA3zRMpDhMulKCXockwVE_7vH7Vsnx2nRHZ5cl6vQ4-tVVpLyK7Qse1VkyW-0VWSrXEr2z9B7NV0iWnxISTnlisVLHGCLtzR-4RfOf-z7oYhxyP7EDf0V3sljEy1pMDbflwMl-Slqh0zvsbSglNaNZxGe2FZK9dpjHuhXYW3xQEY8UT5I55UXlE5HLzzXQqeMn8RKtt9N5gIVH78tXXfEdTFHtmslB_3PV9zL2wnwcofUY9PvO_yRmso5R2iKBp6%26bt%3Ddbl%26ch%3DAQEAEAABABSFx424PHy3_8DpwVrl4H8ACygg76oC0ME.%26mac%3DAQEAEAABABSWa55e4YdUsBqzPXKxs4ng7ZnnB9vVTns.
+.netflix.com	True	/	True	1674044898	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABThkuMQC8m9DUD6QX--ecLzafU40DELJUo.%26dt%3D1642508898783
+.netflix.com	True	/	False	1674050706	memclid	82dd1f99-e9e4-4bc5-a5fc-828b2cb9f057
+.netflix.com	True	/	False	1642516520	profilesNewSession	0

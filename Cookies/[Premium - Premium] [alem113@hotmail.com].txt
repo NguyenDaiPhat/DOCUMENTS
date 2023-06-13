@@ -1,0 +1,15 @@
+.netflix.com	TRUE	/	FALSE	1678843530	nfvdid	BQFmAAEBEFvuU-5l9E6CISxFKAyToA9gdbTFDcyAOC7O1CS5UilZfikWMLUWvnpbmsYFg_yJdbCSnImwsnvzBKOmg788MscR8SsT_Oy-huzZWCS9knu4qLPLEkYObmgDyt-s7fSEhqRc6_095K3RNCMOSj7nhCa1
+.netflix.com	TRUE	/	FALSE	1655235735	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A33.0791%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A33.0791%7D%7D
+www.ennetflix.com.ar	FALSE	/	FALSE	1684893898	__atssc	google%3B1
+www.ennetflix.com.ar	FALSE	/	FALSE	1684893898	__atuvc	1%7C16
+.ennetflix.com.ar	TRUE	/	FALSE	1651975497	__cmpconsent10997	CPX4jTgPX4jTgAfR0BESCMCgAAAAAAAAAAigAAAMEgCAFOAM-ArABggBQKAGAJwA_QDGQkAMATgB-gGMhoAYAnAD9AMZEQAwBOAH6AYyKgBgCcAP0AxkZADAE4AfoBjI6AGAJwA_QDGSEAMATgB-gGMkoAYAnAD9AMZKQAwBOAH6AYyA
+.ennetflix.com.ar	TRUE	/	FALSE	1651975497	__cmpcpcu10997	____
+.ennetflix.com.ar	TRUE	/	FALSE	1651975497	__cmpcvcu10997	__s587_s23_s24__
+.ennetflix.com.ar	TRUE	/	FALSE	1713837895	_ga	GA1.3.77657142.1650765896
+www.ennetflix.com.ar	FALSE	/mac-devin-go-to-high-school	FALSE	1651975510	newsletter	1
+.netflix.com	TRUE	/	FALSE	1683426237	NetflixId	ct%3DBQAOAAEBECDFKTWL5gZuD4tNnz5oK3GCUPsJzngLi_ceam9x8prwgIqG7nO7LPF3DOUhNaUp7kx-XloU2xr-jB21OclPiWh_7ekGBeA4yFcD4bB_tTYf1FWZ2RysyJemSGNIB4MGNechiSBpmWfHkSj_07-GGN49t34gR7KnqBcdAo8h57Q9EmLgsSY-Wce7rf3HwmTJYz-gbGQcfusHBkXUl9VZr7uziJT7-mokHoLA9UXBD534ZZouQf1md_xnva3ZkiqCKldW_9SEWE2lzDo9kqszjUVhVHaJB6UzziS63JIS0XS8_lnQIA6f7h7NQnc7cj3rQLr784bZuLFRKU_dU1cQ6nvjUpQubDDvReM3UawWg_b5jjb7R17WlhSUKqcf0IBJEyGO4keF9FEvhUY36UR_fbiAp8g_bRPdOBejeeAa49qZ8WFSbJt6gmlzX7o-IwTAoFR-rA55gUFDmNsucaO6Bk9x1Y9US6L4pA6K1dvk84i2KhB6Ok0FPG2IDuQyQqP1viLncV2lp-p8wF93p2Gl4TEmNmlvXaiBtyXKVifIRPP2j-lT_q9FbSs5BvgBT1rvhnCBNUSXLBn69vgl5xeS-TdzGcguVv2_CtvL9kjjsMcizjSKW2ehQt9jCrD57Z44pf3GotbKXnOUAxNR7pA35pqsx2AWN4lQRtOCeDoAfTWEauHxDtfFz5nwuNWWV1O5pLH9nXmA1nzBV5cf6tZAIfcjaXdc30ABNkAebVN9sHxg5VXCYFUN_IavPNPX8D_TPVwmViJ88Zpx8Z6oanFqQGZhESWB7erjeyLtDIh_U4qFf1o.%26bt%3Ddbl%26ch%3DAQEAEAABABRczwQeDC7n_zi92Nc4SeOE7JQfOWeDbUA.%26v%3D2%26mac%3DAQEAEAABABS86j4OnE_8HsLFVsSwb06x5qv5hMyHfnE.
+.netflix.com	TRUE	/	FALSE	1683426239	OptanonAlertBoxClosed	2022-05-07T02:23:59.287Z
+.netflix.com	TRUE	/	FALSE	1683426239	OptanonConsent	isIABGlobal=false&datestamp=Fri+May+06+2022+23%3A23%3A59+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=6.6.0&consentId=8dbc2245-6cc6-42c4-9f43-88e254ae6a99&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=AR%3BS
+.netflix.com	TRUE	/	FALSE	1683426237	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRijf4JFn4jlYnTiSeAr-mY2NIk5fnyJbc.%26dt%3D1651890240866
+.netflix.com	TRUE	/	FALSE	1651896261	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1683430499	memclid	f140ed2e-b7dc-463e-9cb0-61af93fc7f56

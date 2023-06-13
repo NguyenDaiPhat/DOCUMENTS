@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1641010506	flwssn	512522eb-ab89-4fd6-a57d-bff93e725531
+.netflix.com	TRUE	/	FALSE	1672540740	memclid	6acf8577-e7f0-46d7-a66b-ce7f7bf26674
+.netflix.com	TRUE	/	FALSE	1672535664	OptanonAlertBoxClosed	2022-01-01T01:14:24.275Z
+.netflix.com	TRUE	/	FALSE	1648775707	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1704113569	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1672535706	nfvdid	BQFmAAEBEMpEvTYu_RNJ69LF1qKJ_BpgsQ-J9E0JvcIb3VDlV5s6XEwhI2VW-UYLcJiI8VJsFxWWOWna8tAhNIki1rEAxDYv9Kwy5exln01hCpjDptRH8S3pKV_P1MVkR_F9tx1z_HvYOq_S6FyiGzfM2TG36pSG
+.netflix.com	TRUE	/	FALSE	1672535706	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABR0QQNcPKZXyQarShJ8CwRgIEIm3cDp-_A.%26dt%3D1640999706484
+.netflix.com	TRUE	/	FALSE	1672535706	NetflixId	v%3D2%26ct%3DBQAOAAEBEIvszHIJlfBmF4lM_dX3jEmB0CGN0YxNwO-JOqXnMZS-DYR2Gx_tZoWW_aPt2cVJ8ZmKdvbhMl7W89PhrEpaumbKTL7mHGphzuUoxTo48-OyGMlZvI5dG9cCyE1R-dCKpdqII6wM7mNaEk0ks0jWOIZ-1qWbROe-vBc-UscSpfpEB2QM4hmRtbOyLBYM9uxIAsasFkB8lG4uRtPqM8NJYpkxxDaal27FVq49mRxwldeB9DivY8FTz9mart9UW3E2FGeLpbU2bjfXjzpepu7As0jBoo69pm-cs7RggYX5_pfSsNU3nAx9q3kxE3tc2MSQjvA7ZS3SIBUCWEGO-zrebC3My_2gcLHVvuSsEKxLOpKMOvt1PBo_xz1d9Qd3DvdDM9wA35WK0Jdf454ClJb6f6XIiq99wZWXLlEg6Zizk8zh5-Le_TN6varU_yBJOcvtFY75IVcusIC0HzNDO-4svnSIC4ix_eQtJ5uj2q0gP-wdlVdiEihtwZLlmvqt0E24z-Umz0J2EGW7UCKSUopln9Hg4unIR7q2zexWLiuxGTnxAJo-Mco3mHG9BLSmltSlK0ZA41mBStLgVOy6qZEI5XKuj-zX5Qn-TykAQg8W7mF6fumpXa__iIzQS4f9kRGMEaG0%26bt%3Ddbl%26ch%3DAQEAEAABABRxGj_xsFPDZTwCBrFZe2zRDl4Vz2lKYYw.%26mac%3DAQEAEAABABSym13KzJd0D5ycDDpfx4ICl-yl7Dfa0wM.
+.netflix.com	TRUE	/	FALSE	1672535708	OptanonConsent	isIABGlobal=false&datestamp=Sat+Jan+01+2022+02%3A15%3A08+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=6.6.0&consentId=e69267c6-8252-4566-ae88-35fa18bdaedf&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1&hosts=H12%3A1%2CH13%3A1%2CH27%3A1%2CH28%3A1%2CH30%3A1&geolocation=ES%3BPV&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1648775934	playerPerfMetrics	%7B%22mostRecentValue%22%3A%7B%22throughput%22%3A3.18324%7D%7D

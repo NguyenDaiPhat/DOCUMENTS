@@ -1,0 +1,13 @@
+.netflix.com	TRUE	/	FALSE	1674236959	nfvdid	BQFmAAEBEBAXllmVS9KzwlhkseDQXQBgQ1hn8s_XKjMZ3RopGvlnIZmtx58pIbZK-7AF5ERA-1xOvlNj0dgNk7bOv-T4s4qtQMVg73ZqljV6heAbdsjF7zl7HDun_2lMsstFleQwG8vDz1DT6qoHOEZ1gGIRt_Oh
+.netflix.com	TRUE	/	FALSE	16823690575985430	clSharedContext	31225268-c7cf-4caa-b5f9-cb72cb4610e0
+.www.netflix.com	TRUE	/	FALSE	16823690582536791	cL	1645582036344%7C164558201364079%7C164558201364239715%7C%7C144%7Cnull
+.netflix.com	TRUE	/	FALSE	1655847504	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A14136.9%2C%22throughputNiqr%22%3A1.7414416121453011%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A14136.9%2C%22throughputNiqr%22%3A1.7414416121453011%7D%7D
+.netflix.com	TRUE	/	FALSE	1682208449	NetflixId	ct%3DBQAOAAEBED64uD5F1ar1Q57E-9utMhaCcAhqX1D0lYpLU5tiMJeuS58sk58Kwk-72PGRxDrlutF6pRrMMwv2kpwb8wCbDtailjJbnPyij07C97rXuhhc_Fp5Y4Xp9WPUKARP11n3FimC9hdHTGFlwQ6zsh12ueMmnn7exdDrc8AOd7fSHBz0zt4j8-Twtim_7mxvA0CrvxEFHas_ayFcWNxtQ8E2J_p71QmY33Pfy5xghH44ORea9ZlXfb_PdJMwDZXzpTjM7aa-izELES5Ay33srlEA15Ew-xh1abOWRd23R_msGGI6saAaaIVDQPc_wJRITGtiqUVfDygtBLuflo_1t_H8GZokt8r7IjHCDYF8Mu2Vny-MFFLlNjoLa9jH0_uatkOZrSG0LcNyQXCu2eoxWwoM3tIKp6xGFmMU3qMjvvU7R8dpL6RV9vfPyo_0jJi0AWQg0xpzzX3RHoczjSPCmxsszbyVt3UWBvqkdIUUw2kKZgdw_tjkQmlz1oQp4s5l-7LoX2_8i4r4Lfoh8iWotYDr_veGvdN5l4ovd5jFVGBycTawHKwtnP-V51Yiywe8yXoT_n8f3VE1p6K3EmRO_4gGVlwJD7L_IfgIoDT6W7e4RFH11_DKQKMJtm4HkTBHZEH3Q0-Dv-8jT2zWst5vUMuQEf1NvCVT9uwMq7zSYheaNDv6XRFnpWv7eRbrW1gxEv3sMp8rDIWJ5Uzdf8Q3YpFBosK-osLadQTlSsV8aFz8OThNGHBq5vXF3WPo48Ubw8hV5Tai_okmfi0xX1R45Klc1QfRG7QBwZchOHXep134b7nKWBCz-svHMlkQMW4LVbKaDLSS46YKEygzQS7UuFLp2r_sig..%26bt%3Ddbl%26ch%3DAQEAEAABABRsll5j02AFpqfR5pY8W5wDMvGhBoJQZeY.%26v%3D2%26mac%3DAQEAEAABABQZlQb92S-R3JIJn77tP1-JYWi8FEhmJt0.
+.netflix.com	TRUE	/	FALSE	1682208449	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSfBnuWZwCSVIjKrARSZXL47brVWcXTB_Y.%26dt%3D1650672449848
+.netflix.com	TRUE	/	FALSE	1682222978	OptanonAlertBoxClosed	2022-04-23T04:09:38.461Z
+.netflix.com	TRUE	/	FALSE	1682222978	OptanonConsent	isIABGlobal=false&datestamp=Fri+Apr+22+2022+23%3A09%3A38+GMT-0500+(hora+de+Ecuador)&version=6.6.0&consentId=f03fcf3f-e471-4257-be2b-3572965a7b0f&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=EC%3BL
+.netflix.com	TRUE	/	FALSE	1658462977	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1658462977	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1658462977	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1682235000	memclid	b58dfc4e-0d14-4659-86b4-e3f0a67dd54b
+.netflix.com	TRUE	/	FALSE	1650700796	profilesNewSession	0

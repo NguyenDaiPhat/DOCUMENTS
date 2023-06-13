@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1676938485	memclid	fe0a0e1f-62ca-4765-b110-7d2d8d30fbeb
+.netflix.com	TRUE	/	FALSE	1662483781	nfvdid	BQFmAAEBEIKmTTiqzEWOiRWj5WtVh8hgZhVNMYegYPf1oRIFeSX_V5BnGEzvw8t12QL4oznsf0KLpCDq_Mj2Tr8TDqZiCdD-wjjCKdBAzpbiawxyG9GnU5BKBiUkQAuaPe9946zuBxsjBvxAWZD1LmfCBB9EEaIL
+.netflix.com	TRUE	/	FALSE	1653178254	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1653178254	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1645413052	flwssn	b0a66ad5-5a91-4311-8b41-fd865883ea66
+.netflix.com	TRUE	/	FALSE	1653178254	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A15322.3%2C%22throughputNiqr%22%3A0.22005305493214114%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A15322.3%2C%22throughputNiqr%22%3A0.22005305493214114%7D%7D
+.netflix.com	TRUE	/	FALSE	1676938260	OptanonConsent	isIABGlobal=false&datestamp=Sun+Feb+20+2022+21%3A11%3A00+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=6.6.0&consentId=9949e960-277a-4313-a0a6-e6ed8c949922&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=BR%3BMA
+.netflix.com	TRUE	/	FALSE	1676938260	OptanonAlertBoxClosed	2022-02-21T00:11:00.210Z
+.netflix.com	TRUE	/	FALSE	1676938259	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTpjjoIiqRUUdnwo4bNgaygSiJqK6gKwLY.%26dt%3D1645402259749
+.netflix.com	TRUE	/	FALSE	1676938259	NetflixId	ct%3DBQAOAAEBEC7i5qXrpUieo1cNSwulGo6B8PVd9vE3R3aelBuozMMAY0Qsl5BImnE5Jz7J-8zbM3kaRXojqG3lVnj-quYzvgcMXX9d0K5s2fdhru6j7gD-GpXyNZNHpwM0WZWbqM0XYmLwu0FTCC5Z8kw0cmTGR3DIkzz6j-ddwZBubyIbET4QTC2VcaE3ssNuiAsi1GDbJ_znwmbpebG9r8NcwzXzL1NaCnlmRIyNbUm11Z0wzivVB5U3nJ1xW_D1ZN3sPceS0HmZob_VmBDLOdltYRSB7BcBhRB_SzrpmusUW8jzy3RnG6r_06h16DGtA5p0vW3l3qsY7Ek9fdCki42PWAd1zOv2XI3tPmwXgwHKn_UTlZVSdgfYLeKmbthY0OrYcXqr0qERn-JKeEiXCm14g354ZBaGYGuA-pirxv7Odp2E-2ZLtorrxrc37XAlgf8dQ1W9vqjX-tWM1bQDnyj3gU7O0BkiDe8UBWCibaO5YNChTMCdUZ776ZziIXJSmf_2Int5JHhawxuB8Nlhoau6GstpZlIehpujAMyilP4qxSNrwygwiTmC-2H1jKaAuW79rk8M__7y-CcMaggSj4AMy5AD6N1blOYCaWi9A89imMswinMaLaW0gJovNfU8aiUj9fIEQkbUNUrPGAGuCdyO_5ahhsybAjfkInUPMBi8DtNA8S0exps.%26bt%3Ddbl%26ch%3DAQEAEAABABS_62x-a5Ai0J4FsSBUjMRIssIujAW-XjU.%26v%3D2%26mac%3DAQEAEAABABTn7XKCm-47RSHa10vClbjlrab0iT7OekU.
+.netflix.com	TRUE	/	FALSE	1645404284	profilesNewSession	0

@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	16832283943629004	clSharedContext	eca30828-23ed-4b9e-a2c9-500b5c98c99b
+.netflix.com	TRUE	/	FALSE	1650946483	flwssn	e2fdbc4a-0efd-46d4-bef0-cd50024de269
+.netflix.com	TRUE	/	FALSE	1682471683	nfvdid	BQFmAAEBEK5kwEs4H19hbvh3BlOdTpBgFvGf-QvkSQCzbeK89rwci--xnyOJ6fiyAS8_xV4hJ-rK5Q2HKNZTNA-QiYuy4j9336IGbZQvCJsoIByEVYv-wheiL9pCaeEikTqH-ST5aKsyNLzErDalU-b4P96rEI8q
+.netflix.com	TRUE	/	FALSE	1682471690	NetflixId	v%3D2%26ct%3DBQAOAAEBEB4IqMj7V3FYe5zYs9syXkGBwCKwoL7F_SQtBcY2O8QLIho6fr3aSDzal93UyOG7Dlx4SwXbTfvSKrepJoJKRpLhtS0O7bzzCbHmphSKaGVHAR2A8JZpXa_oLFUOsMhVGycDG0TFWpYuCLo89QtyhgI62uEKtq4QexejRcQpWNea-bp1rcD13NWi2RsS4w5M-r2D6cyALNyyYyZdPxA_rEbCXbXWeE67mhi-uYi2cwN0L8zJj9hK_c1y3azcMfsU6Hs2yoFOvRuLa77-aNBHt5ym93aF1Q31iHDd84u7oJ_7ZhgM_Zk7SRiNUgTsdsfBSpfcc_sX8vQWSn_pQUofxh11Abj-VEaQjbdqPSdl7HCSQBCb0KTP-H23r8q1d4fnkKOjgmnVlti_EvggI3TqfKPJPN6EFj4oQsqj2yu7NrIuOlX81GmMekmUs7r6PnTa70k4-jk8pboHTHVl1k5sDQ24mG-92PuuKfGHqpykh02fCGcqDGXXLLFYHDX5Yq0j_WZy9NejouTGYUOeiJMlJZ7AOnU3oYf-04Ao94m0xxLFZrnfw3HOny-clAe2g1pzX32lB_tJh_cDxZioK1Vtjo7Vz_bNvIxIFNetuodBqAB7ltQ.%26bt%3Ddbl%26ch%3DAQEAEAABABSwnPqMSGiAgQYJtpCxqfFr0oPyWkvwrWY.%26mac%3DAQEAEAABABQG70whmKTZsVwHAO_5_fF9S4W8WzxYDgw.
+.netflix.com	TRUE	/	FALSE	1682471693	OptanonAlertBoxClosed	2022-04-26T01:14:53.254Z
+.netflix.com	TRUE	/	FALSE	1682471693	OptanonConsent	isIABGlobal=false&datestamp=Mon+Apr+25+2022+22%3A14%3A53+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=6.6.0&consentId=59a8de0d-edc0-42e8-8c98-b0acc3dc69dc&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=AR%3BB
+.netflix.com	TRUE	/	FALSE	1682471690	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSw-6FE-hvpt6eNqyowhe4-yTkH4mYZRe4.%26dt%3D1650935687770
+.www.netflix.com	TRUE	/	FALSE	16832283943668000	cL	1650935686826%7C165093567592341492%7C165093567529977723%7C%7C4%7Cnull
+.netflix.com	TRUE	/	FALSE	1682474029	memclid	4efa7327-2386-4a9c-b455-3f805613f8fc
+.netflix.com	TRUE	/	FALSE	1650939831	profilesNewSession	0

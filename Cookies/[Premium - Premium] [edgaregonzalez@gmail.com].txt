@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1677176239	nfvdid	BQFmAAEBEHPFpoy5EJFACLRhVs_TKdxgqV8qovIzrYspeB4fThQAzZKyzFZNDjF97nYW-8H7rihVar8qgcV3Wkn76vNJBmmnVGBQWav6IxIpehigmayBk-vLMGE8W-HCnt_KR32fWuh8QxMylljoQHTRST3L1AL2
+.netflix.com	TRUE	/	FALSE	1677363701	NetflixId	ct%3DBQAOAAEBEF1r7vVu0qQ0yVMcgVa5ZMiB4NKGojSKHqWs5ffOwECxyi_8wT1wp_ofG9pm_apvdQN9L8g3B8fuZE2Z1-IRXog5uj6p6TU-Qh2eOUVux46vSyxMi5uROlNzCuJlPprJKxXAEsEWPBcQbb-UuxLw-tXihWvrwFceRbB_CRklPd1t_oAuV1sxzDPdre42AQeGW3xhtCEY1fMtvc7_eC0ompq7eWryzEUbTWISFXDxN6ankSs0MImDcEqrZCHCtB9rQVrwsgFQBM9vC9hInQi5-o1S42fCbI7qtXIdzfhQlmGYZw9HsDAtsMjungAwPjkJPeQlVQYBgR7mpRZbkk2-EKOY7Js0FxrKh30NcOMpoTYlh3W1tgjM-IHv4SWiBrHVkJ4T055izv9khUY_ZHK8JN9y6ZISID-dvUovp6RvxEB_v3227dqoDfdwd01gR7tRfz5PXovSHZ6GBea-teRwZC_jBlW1BYlulkhtMEBc_f7ujxAmu7spDX_zkozwApvlj-VYrMIJ44A1yL3I-z5itIbIpAwckbxQpJfwsdpIe5lq-N73jBByu4MBEDOBSBCSxcgEA7qMqIJi0cMqE6eHUtK2seMFWw7w6PpWi2l4QC_RuXLGSTGpr6tFAWb2a5K7VYxgSlYfwrciqO_eEfMduMqt8w..%26bt%3Ddbl%26ch%3DAQEAEAABABQg_5c10Yd_BxkClZSno07BWM1mK19ppVs.%26v%3D2%26mac%3DAQEAEAABABRl1eeLVhIhEnL8TbV3GzHclwf6i1noNlw.
+.netflix.com	TRUE	/	FALSE	1677363704	OptanonAlertBoxClosed	2022-02-25T22:21:44.187Z
+.netflix.com	TRUE	/	FALSE	1677363704	OptanonConsent	isIABGlobal=false&datestamp=Fri+Feb+25+2022+19%3A21%3A44+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=6.6.0&consentId=75020c6a-133e-40b6-887b-e7fe3a355358&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=AR%3BB
+.netflix.com	TRUE	/	FALSE	1677363701	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQjVstsSXBoEeDskmlGSMv4cZdqAIRAAwo.%26dt%3D1645827701741
+.netflix.com	TRUE	/	FALSE	1677363712	memclid	fbf651fd-da81-4aa3-95fe-58c17d31f24f
+.netflix.com	TRUE	/	FALSE	1653603702	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1653603702	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1653603702	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A2087.58%2C%22throughputNiqr%22%3A0.13828039693668817%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A2087.58%2C%22throughputNiqr%22%3A0.13828039693668817%7D%7D
+.netflix.com	TRUE	/	FALSE	1645829505	profilesNewSession	0

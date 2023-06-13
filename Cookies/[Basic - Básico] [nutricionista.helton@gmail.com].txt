@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1643240422	flwssn	d0447b45-b2d6-4778-bace-fde1e1331dbb
+.netflix.com	TRUE	/	FALSE	1651005624	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1651005624	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1675234036	NetflixId	v%3D2%26ct%3DBQAOAAEBEGYGgV4mgbtuvHTyyjS2iNiB0AAoFjQCfeQok6MVZlaYsCQ2ctL6x0fPDaKWSbmgombC7T9OpEpydtXhBgpbM56aoRZrcFXcHSSc8zoelpf4ONgigmp-Cn-cHvyAqHFfFTrlBenDYvPnufbyMQZg1RFdj9hH-AiRj-aEsvrvBhHvl1TNkYigRtseCFOfmlNnT27cCg5I-eBAgLjvTee2TNcY_mbI83RCftPSb6FbY7gwvO94szdSqGZWVe5xuxVOwdaXnsF7bwprJ4MeaJaxReVWseBpIx3XNamRTb7bXHjWArSZie8R7eV11TxrWw8ZBedaCvDoXVgVaRBZtaMNeFHDSueBh-tJ7iNJtVikKgsuQ__AfpGcBsLUxyO8_8i3CmcgcHl6K1h9k3dZylLqVw44gRtTICoFcv-pJXfuZeLUqFPR_36-I71_xDpi7xiOTyCowBfhaDSqcCJTSzp4ZkpqJglq0ryG4V4qXLMlEruKAXUDxOWM2JtDRZdezeKkimXe3S7cw39cLOQ1oiJXITy1ZcIF91TXKCV2k5jZvnwiqjbPPSsZOg_uWwEckghkIb0-e9MoKctGhk7sd33w1V3AtShRBdutYWjcyjqJZEaKqeOA8eUAEtLeIanGngMvTBVI%26bt%3Ddbl%26ch%3DAQEAEAABABTLD2aBJsjxmjgMFkGyoax-7WU5UkkMCOk.%26mac%3DAQEAEAABABQaSim9hFl2r6kXj5SKxfhHfLUNg0tdKtE.
+.netflix.com	TRUE	/	FALSE	1675232921	OptanonAlertBoxClosed	2022-02-01T06:28:41.694Z
+.netflix.com	TRUE	/	FALSE	1675232921	OptanonConsent	isIABGlobal=false&datestamp=Tue+Feb+01+2022+03%3A28%3A41+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=6.6.0&consentId=2d2136ac-33fa-4ec9-b0b1-26f61ac211d4&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=BR%3BSP
+.netflix.com	TRUE	/	FALSE	1675234036	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRmso1UZDh8anXOC6eZ3j_NURjkeyus96E.%26dt%3D1643698035402
+.netflix.com	TRUE	/	FALSE	1675240525	memclid	7f79c978-1ab7-4fa6-8f45-89a1fab0c5fb
+.netflix.com	TRUE	/	FALSE	1675232916	nfvdid	BQFmAAEBEABRlMmz0GGe7l0jWOJShmZgD0a8zSR4Kkra_I6sSug730RwatRanZN_5kMODnJRSE6H5vW7ULsKuENMo2EOoEWKC07LZbnTWm9gamV3-pQdrM_7iEUpBZl6g5WgKIJENKh9lCqnmU4SNw9OfJz2wOXQ
+.netflix.com	TRUE	/	FALSE	1651472928	playerPerfMetrics	%7B%22mostRecentValue%22%3A%7B%22throughput%22%3A24.8609%7D%7D

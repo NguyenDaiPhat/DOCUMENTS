@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1715580828	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1684002934	nfvdid	BQFmAAEBEKQIpc_G5o3yPyRKpy4-1xJgt1H_A8YgKLmepaXj8ToHBJox_XyNFN-1BEHgmAXu2We_ZZ7g31PCnIG4022MJkxlp9Ysw30WgFcRya9oTzSksnP9ogozha_Aqlxa9L65Ece73JDS1wwZ_m8FJG4cAY9c
+.netflix.com	TRUE	/	FALSE	1684062007	NetflixId	ct%3DBQAOAAEBEC66Uxcmn70GvpYN1Fq7HuiB8D5XgXTx0UvyRpw4XOn4AUjDBawWEdvRGwj3f9G899l-3-4Wu23PW7WSssBZBJGf680qm7aeAN-YFxBdWWpCvoP_2bhh1yUtaCuOK7o0N0gYZLZcAwI-zGoPMKOPihUaMTbHNoIagUePpq7oMmbCSDcO1lgVSHcwyHEvZI1g992BNANGuFYqfHX-GBuhjs6Kk_UuTUX7HZFk9Z6t3DQbaYgbhpYVqhECfHC3fm_-9XDaU4BGQBBLgSS4UDSACzYGtEqWZ5MDltLZnDF8impDG_gBbn47u5EFTCtIIgyFH1w4Whmxt_Qzed_ND5AKpmHxoAbkQIijfMUCmybZIni53UEi0MbKi9ATOfYB8mziCMsrdaMVJl3TYJ9zPYL6J_z7J_UlOkMd9l6MWo6jDLHTGXUjogWRuz5SX7-liMFKnIdNgjylyb9gjGmldU5421A5-VbLa4zO-X0IKqfr1-AJ-xsaLhM7h5HxXqX8IwmcHrT6A6CLjWiubGctXwwUwFU4FvyjZnRxQRZPhYT8bOQJKkL-j1ixRCJScwJH-X4WcBPN1TafSgjCkMvHs0YL3Ywu_VdRL6BUz0LY0nAh5i2mRUyTsbJDlizTF393VW3mY-0voZdy1otTzDt2IdVlZ7HXJlmgZi3i12-Bbc3ksbmW3xQ.%26bt%3Ddbl%26ch%3DAQEAEAABABTG1eKu4jo0jQUx8DJgzyUqZLdZcery6zY.%26v%3D2%26mac%3DAQEAEAABABSaRYAfZsBKKRS2AN6ZtYbfa3yOWVoz890.
+.netflix.com	TRUE	/	FALSE	1684062004	OptanonAlertBoxClosed	2022-05-14T11:00:04.927Z
+.netflix.com	TRUE	/	FALSE	1684062004	OptanonConsent	isIABGlobal=false&datestamp=Sat+May+14+2022+13%3A00%3A04+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=6.6.0&consentId=46342e77-0487-47be-a7c3-3c5e8035ee67&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=ES%3BCT
+.netflix.com	TRUE	/	FALSE	1684062007	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQmpSGeujtBpFlGbaZXm-fwvGlhbrw7WLc.%26dt%3D1652526006798
+.netflix.com	TRUE	/	FALSE	1652536802	flwssn	ddff4b11-52d1-46ac-baa7-4216833bb246
+.netflix.com	TRUE	/	FALSE	1660302004	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1660302094	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1652531937	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1684066155	memclid	e734892a-3e51-459e-aee7-d78f531c6e1d

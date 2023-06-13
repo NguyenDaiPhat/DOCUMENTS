@@ -1,0 +1,14 @@
+www.netflix.com	FALSE	/	FALSE	1660854672	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1675110764	nfvdid	BQFmAAEBEPdoAZchEa0FLS-K3vg3o4Ng0eBLgMXmZSD78wwgnplh2v-uTx_RV_a3rnsGaAHdAJzXoW2R059yZt-hP7nh_P_mVphSWX5b5bB8Bt7kvcykDrCKcSBJFYCOoeaN6Tpl528kITHSIZcJRhI93YbVcx3P
+.netflix.com	TRUE	/	FALSE	1653942283	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A6371.03%2C%22throughputNiqr%22%3A0.08313461208584984%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A6371.03%2C%22throughputNiqr%22%3A0.08313461208584984%7D%7D
+.netflix.com	TRUE	/	FALSE	1684525004	NetflixId	v%3D2%26ct%3DBQAOAAEBED2JK7LSfJjVLP0KoAyLPPmB8N1DPHsm4KrCibFIn55zMxS092AdG4UFK4ay1Ip-pc8_hSnjwFXrRR4iGp6fuq_L9Vq2tdzlF4EbykWveG9IjkBz9hLTzYdo71DCZeJw02UOnlrgYN_72wtQU2UjP0nDXi4JIyjB6ZCBW2XfYZOgvj61X1fzU53jRbv-VU36AZCUprEH_pwofQzfy09fSSZGUEqQnc9ckK7EnqvbCdGs1lZeg4bqGKjm5cNDnMVQYat9bmNC7yMGa-G-leMjgslxwwHKe4LT6b_iO1yfnWi7IArkS7IUSDyYADbLQ0ys0YPxcOJqKpOBlogYtKU0fDBmQobKosRubEfaUvgq-hW-qOgepifalO_IqaQ3jnuG5T11idZjF4eGInzyXNRWhhNJ3AYT_TBqQBt5prhu2T7cpMNzpLPf5m8JUqWjfIqhGNzYY-p1ajSZBTLeHVFfPsVgCVxkqHClD_0CeA_GQ7_fQdKk1Rg7WUhjbBT3pee63KYHv1fDFazGRs1OSr59i9M-IHDXxgxr3rvMqGPkmvrfvPYtU2YfQo35yKNzUurWsmIUMK6bOUmFf4BlOXmRTRPOb9LdqKTU2TBNSKvLr-4sYnm0edlNMXoL0760v-OhfFlBEk4XBHDW8oh-KTaNcw7B-8sW-I_bpaNdxMeZe5gk028.%26bt%3Ddbl%26ch%3DAQEAEAABABRLPpvVwU-abzLoHPBXgBnVFCXl7y28AvQ.%26mac%3DAQEAEAABABS_8CLcriDRfbrxwN52n1ziM7wRQvjatpQ.
+.netflix.com	TRUE	/	FALSE	1684525005	OptanonAlertBoxClosed	2022-05-19T19:36:45.489Z
+.netflix.com	TRUE	/	FALSE	1684525005	OptanonConsent	isIABGlobal=false&datestamp=Thu+May+19+2022+21%3A36%3A45+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=6.6.0&consentId=b34e5883-291f-4e45-adf9-00fee5a6cd01&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=DE%3BNW
+.netflix.com	TRUE	/	FALSE	1684525004	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQYOrNEC-WxHZTUMZEP2uKPiOfLapt77OY.%26dt%3D1652989004813
+.netflix.com	TRUE	/	FALSE	1716061004	dsca	customer
+.netflix.com	TRUE	/	FALSE	1652999804	flwssn	788c6b21-05b1-48d1-b38d-707d3a8a641b
+.netflix.com	TRUE	/	FALSE	1660765005	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1660765005	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1660765005	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1652995704	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1684529924	memclid	e2de3b51-257f-4a40-a676-5e9997c082f8

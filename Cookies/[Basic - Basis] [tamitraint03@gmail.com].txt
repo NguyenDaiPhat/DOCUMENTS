@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1675966018	memclid	4a2ff7da-3b79-4702-9f41-969e0bc142d9
+.netflix.com	TRUE	/	FALSE	1652206007	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1707543773	dsca	customer
+.netflix.com	TRUE	/	FALSE	1652206007	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1652206007	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1675966007	nfvdid	BQFmAAEBEANQxpCUB2D-rXUGMtDrNkZg3SfdKhoTDX4DcpdPinSlieeFHaeREZ81MgOHu6k-DUbSvaFhdDxv6chE4lLPL1m94yIxzlI8lMDadS0EQLZmaDZ9vJqxFoCdQH6P7zCItsznNjao0RNrxHc9u44wHZCI
+.netflix.com	TRUE	/	FALSE	1675966008	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABR5bLwfnBlQtyZ2j-z6DSi7q74lRLpgDys.%26dt%3D1644430006010
+.netflix.com	TRUE	/	FALSE	1675966008	NetflixId	v%3D2%26ct%3DBQAOAAEBEDz76y_b6URSjWq7UbEnRhqB8HOo-a7PGfKMgbIVuFdTeV9vadURYlOBor0UJlXRKRWgLPByxQ8eSofm6VA7ACUk1d271N7P5r7C1xlZzBoASaXEF0dCLrv3B9NMQ-EevJ7yF-mi9qN4ArwMcYUtOUTr9alnqv_cA90W2-HQUopBNcyJ67cNZ71kROx0MApKRvVmlKVV64BETtRwoe8I7HBasCK508z1p4GYboxuqBuLj9bZgWvoSd6bm2ZjPCD5rT5YwLpBKczHACCGyCD_3AX2UCOaghA8_Rt5e8suIvfmZuPUlHoFCPvv0EVCIzzBYAGfcPWCIvhjQCpuQmWxxWd3bWI1_ZFVXnzMuRhOSfWnSS8LU54OqK2X5sAyaOkpNd8MUgG2BxD5y2_aKbA6mZLncM_0Z5i8mxvg9koZh8SSrWq0WPOhqYBVwDhLQ3SRMrkBVOLnNHAKwRvFPtRlOgeXDjTeviIT0kUaCFZBy8d1shYiJDnrZQmTxOgk6lLNXbiDa0VR0-ZyGwz_DjsPvb-eWAi_sR6DMoBPf6lUBzLMGMVPuLbx6mWzJ9mr3aw_u-sQvBLSZYNgdrVMbBMJatL5vDqZu67EFFoYlhuCRIvvTY4F9fg6znYQOj0HsZhI6j-QXsMiOQ4P3KMA8o8F4YsJeVO3rwrtl6QPk9hoP3Fziks.%26bt%3Ddbl%26ch%3DAQEAEAABABS_owcPJ216D6BpVt4JONkjMF0bMzDNpsk.%26mac%3DAQEAEAABABRxVjNOh3Zr3Ap8tc-cP_liBMj9N1YpyaE.
+.netflix.com	TRUE	/	FALSE	1675966008	OptanonConsent	isIABGlobal=false&datestamp=Wed+Feb+09+2022+19%3A06%3A48+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.6.0&consentId=fb54cad3-a275-461e-b3c4-01e56f2a6477&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=AT%3B4
+.netflix.com	TRUE	/	FALSE	1675966008	OptanonAlertBoxClosed	2022-02-09T18:06:48.239Z

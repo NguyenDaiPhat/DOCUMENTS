@@ -1,0 +1,13 @@
+.netflix.com	TRUE	/	FALSE	1679918843	memclid	16b814c4-9e13-4818-928c-2f223e996190
+.netflix.com	TRUE	/	FALSE	1656157384	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1656157384	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1656157384	nkufi-normal-4-loaded	true
+.netflix.com	TRUE	/	FALSE	1656157384	nkufi-bold-4-loaded	true
+.netflix.com	TRUE	/	FALSE	1656157384	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1676093530	OptanonConsent	isIABGlobal=false&datestamp=Fri+Feb+11+2022+07%3A32%3A10+GMT%2B0200+(Eastern+European+Standard+Time)&version=6.6.0&consentId=ecd957ae-6469-4eae-801f-81f673111caa&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=EG%3BC
+.netflix.com	TRUE	/	FALSE	1676093530	OptanonAlertBoxClosed	2022-02-11T05:32:10.849Z
+.netflix.com	TRUE	/	FALSE	1654903194	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A13613.2%2C%22throughputNiqr%22%3A0.6317085333881473%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A13612.8%2C%22throughputNiqr%22%3A0.6317085333881473%7D%7D
+.netflix.com	TRUE	/	FALSE	1674646983	nfvdid	BQFmAAEBECRjYfNhP2lRVwvi8QA83DlgwXA2zo1xTjmxvBUj8tQcVu%2F6QsLTXARGnoCeFWkWt1yvlOp3jMH3YMDZ74ZvTcFaVhnR%2FlLJJbl5IWfYe%2BQcpbrhzlgo2h%2FVMeuFtkn%2B7oO7zY0Z4Vwe27rKhjo2rtTJ
+.netflix.com	TRUE	/	FALSE	1648384636	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1679917389	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABS1--OsBeardA6P9E1fdsygwbHMmGOAigc.%26dt%3D1648381341901
+.netflix.com	TRUE	/	FALSE	1679917389	NetflixId	v%3D2%26ct%3DBQAOAAEBEMSS4lsnXyxsDjo0t4DV5Z-BwBa6G3Ene_9PR_8GST7zGFKO8GgE1thzhqeqOzujNGG-5OSYqOhuihBCGztiSAFTA5oIOtjjef7hMALFqMWAWcFMpGyenrLPksAlPF-3w9Gdq5dpAuybdPWMMxP_uOfTNuI9k5AKAi80a4avSIg3CokW_De_QBH68v6eM4L1anz5nXjJQIr5g5T3eq4VkKm0povOzfXFm6UW-c2T1M2OCcaJVoKhGY885-Pw7csibEFqxeiaihNjzjRbiUdPD5NJpaUAhsmcdfo4_3E2wC7o7fIkoAGyxcRmWLd9G6DZzWVO1Qh7rUqMop8QA90hFdxw91ZcIGwBLYFmwMbDIgNCLMIm7b9xcZInKjTXztdNXSs8w9owToh9fO2aOzqMylR9NYt_PzHFcZsem46mR9QTos673rqfAFV9UEHiSdoz-VcHbOePlmSKU4CjG-9_9dkdbirptxH8GA44oYER6TBtjzfJSjK1hmMbIXIOksr3ZeHKQGtmCV7SYZ3fWSgtJ7PhfHSQ2ZkVoTZNBarK3H95Gnab1ZArCeg-XpaRzeMb4Llji0rj7OXNLiQruuxwXKdOiFUBqRSAFAFO2oBfLTgxn2c.%26bt%3Ddbl%26ch%3DAQEAEAABABTBENQSZiXyRiiiO9T4IhUnirX-QDmGImU.%26mac%3DAQEAEAABABQYrdtKAVn4vsbvvhoUV8GFesZtI9P6KiY.

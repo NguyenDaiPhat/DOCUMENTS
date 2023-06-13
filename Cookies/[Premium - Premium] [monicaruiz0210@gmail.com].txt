@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1678845053	memclid	8b10470e-1d35-4ece-8a38-0c83c42de946
+.netflix.com	TRUE	/	FALSE	1655066038	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1692573894	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1660995993	nfvdid	BQFmAAEBEP9XP03KStrcQBsQF_PTv29glu9Jaqb9OxqsnXW5I9tP9KsnFKqPVDmm1ipnTCAWFtIxBbEPxbztWDZ03pceArp4BXdZeF42Ltx0Is8UMNPr2vqi1aKHQUcVqaggiIIbanKqYAXbP7EoNMr3s9EIc9PH
+.netflix.com	TRUE	/	FALSE	1655066038	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1655066038	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A7187.39%2C%22throughputNiqr%22%3A0.38640048282447764%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A7187.39%2C%22throughputNiqr%22%3A0.38640048282447764%7D%7D
+.netflix.com	TRUE	/	FALSE	1678826039	OptanonConsent	isIABGlobal=false&datestamp=Mon+Mar+14+2022+21%3A33%3A59+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=6.6.0&consentId=74dec192-ea84-4060-8bd2-ff838e28117c&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&geolocation=ES%3BCB&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1678826039	OptanonAlertBoxClosed	2022-03-14T20:33:59.251Z
+.netflix.com	TRUE	/	FALSE	1678829148	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSzChU9kXi6dyZEaVmUbxKsmC2uexPWX6E.%26dt%3D1647293150742
+.netflix.com	TRUE	/	FALSE	1678829148	NetflixId	v%3D2%26ct%3DBQAOAAEBEHEUy_H5y0H_TxWoJvFFujyB0Es9cwKH1KK0VORDpiypa1M0s_63tMOjrCc84kaKEeLNOu_pKA-VOwNvByipmKKpYVykM28S8FitWJz50UfCMBUcC4oxh-KVWOwlIbRiPYon_0FUsAp4e1tzUSA_p_f1gAwBPbNiDQtWFz9uo2WwliQdAikPDgpYkvRHChEpEierAv3DDzc6UDT8Rjo0a3HG2VtNBzbFXa4Wht84NRzXwHyhfCseP7x9SG6QakSvhjfjIcgOQar33Qo_8XUKOLyCtURwO5XJsUYLyLwyF8lkN2r-WnFcnQ0l7zdpmtKusa5b0RfCTjTBl5vkeiw_ZLHXGu2kJy9uS4bsk27fNuJm1i1oyx7BKJsKwRCrzZXiPQz3jWhdVggG6kmKgHa68H10ha4Fs1li8DZovSi7iDm7N1jloh3foINIhxUci6v7rrqpLalFIcMn_jDZWYYeOyW0mC1KY49mAzfZRux0to4YB2xLDxuMkVk1bwCN_eaOf5WR2-d-pCt6TfXh6Cl9AK_yAw1SU7m7LofMe5o1GoLE2OX_yiaWEDnPeAmm8Ki79nnh1xkJ9h-aSGTYtMEFJ3-7PEN4u4CwGu5M0rcadOwLw-b9SAg9URwM931h7k4mgjh2%26bt%3Ddbl%26ch%3DAQEAEAABABQkUiGGy6Encsml6ezVUahrS_JSP5qPoEM.%26mac%3DAQEAEAABABR2JwwW-OrvSUyOZarQMFSKiWJapfoOP3M.

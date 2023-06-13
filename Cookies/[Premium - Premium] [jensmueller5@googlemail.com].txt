@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	FALSE	1715714519	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1684136717	NetflixId	v%3D2%26ct%3DBQAOAAEBEL0iDXh2Tegi6SNkqH2d-7uBwGNMdz7pchbnDU_-XmmYtl0NRfVue5A4I1Fpwb4F1FWwsA-CJEsLkU9HkiUj5ZpnETr4sr_4EYIOZ91_rSVN6AN1xyUi1KJoxmUeSomN4km3Kw-Z9V9QSHAHGj5P9WHI20aafqaD0WIM-9C4G6sWIYibc-iLnfYQ36u7f00UBI2F38u8IizMyHbGx8-f0rJFoWsOs7Z73j1vUWo25WLUyNYgRAdO5ca7ohnFQAMiE7sHCd6FPToEgQaHz5l6QScrp9Ac0Ha9QMTOzob8nv0y8EY-5sAdcWeLt_Gw6h7caBC9uCgM4QGeim2E9IZSwqrcgmGpxv2NxJBg1AF-DtyUEjRivBhLxwc2gwCLhnmyAdQI9n5zt7A9GCqqx_ockX30nTN-nfBD3PAWPiCQbW5rBF6hU8q9YoDN651OtxmtjYpb-6lPx-Clxrw6dzOJvVn3EIYXopLdKvCkZz3ZIpSwGBSE_V9SA_D6JJE_QR5khH3KDQlsF3Qa2Rk6ROcb03HDIVC2UWP7EowAQaqQ8fMYaG2qPzu-ZzR_myV0Qli3RtFY1Arpi7ZtsuHP3vF_Nji0iCukPQlDvcG0w_QzCibvEt8.%26bt%3Ddbl%26ch%3DAQEAEAABABROMCGyuDuxjU5JYOR10aCvW4qFj0kzmYU.%26mac%3DAQEAEAABABRBOf5GNQfv-9odEohuchLdayxC9KLkR6E.
+.netflix.com	TRUE	/	FALSE	1684136719	OptanonAlertBoxClosed	2022-05-15T07:45:19.844Z
+.netflix.com	TRUE	/	FALSE	1684136719	OptanonConsent	isIABGlobal=false&datestamp=Sun+May+15+2022+09%3A45%3A19+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=6.6.0&consentId=b8fe2ba3-db54-4e8a-bf07-fda5fd41aa5d&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=DE%3BNW
+.netflix.com	TRUE	/	FALSE	1684136717	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABT5MNBVi8xWomXr7gm7Bkln7Bd0_fD3euI.%26dt%3D1652600718731
+.netflix.com	TRUE	/	FALSE	1652611514	flwssn	ccd61b1c-652c-4f53-a668-658ae47c6d41
+.netflix.com	TRUE	/	FALSE	1660376719	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1660376719	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1660376719	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1684136714	nfvdid	BQFmAAEBEM4yBzuo2QcVz75PqjrvAapgGibciyFfQWYgQAmJcYy1fpxSfq9TLf-pKwgqmfqPUrkrhbJ5gztbw7g3l3UFLl_UzJENm7xYPfEZmeVUSAax17Fn9W0uKWp2BsSbazNMuE6j9dNEl6OnMMTnEl1zoVw8
+.netflix.com	TRUE	/	FALSE	1684138974	memclid	1e44b752-bfd0-478b-8322-bcd974b1b0cf
+.netflix.com	TRUE	/	FALSE	1652604753	profilesNewSession	0

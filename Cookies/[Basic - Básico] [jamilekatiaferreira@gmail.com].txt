@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1657040126	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1657040126	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1680837100	nfvdid	BQFmAAEBEBLoPaj6B8cBraH0zgVS_XhgdHQgWFw5u4cPQknJfQhkkRjtialT9zQkOokIc7lGLgdChAvcALXnSoVlKkKks61dyGbE1AlIIcotvOrcEWgaG0cCgRK6q1-lFnVCNuKXvsDes0UoBMSkLUm59QnotQc5
+.netflix.com	TRUE	/	FALSE	1681956306	memclid	5a1f9f30-3209-4ef0-8919-49eb956499af
+secured.netflix.com	FALSE	/	FALSE	1712628306	thx_guid	68af378c9f2c41c4ad47342aedebcce2
+.netflix.com	TRUE	/	FALSE	1684371380	NetflixId	ct%3DBQAOAAEBEL73pt3ULCIbLGfMjOc-FM-CYPLOU7DRWK2Q3SBCfXWQjp8mekAqrkM6QQHy7tdK88DSK5O4y3CD9GE5Y4jaL-H9RGa0dWMHNIArCIWkLhs_i6fAscuRurJIpaSQgh0wRP9y-854lrYGbf3moE_JHcDL-q3_cdXfzTpwsBF_vDs0-yb4btg-_RTu8Er4mNhPt2iYG_Jymj_YWY_9z4q0TJhUpGDtKnq1_D6tXqLwZXRAuYjsys2oB1BAqYsg376OITnFkogrC7BUM0BA1rzO6Iw9vciE4Z0XIIeZsKmlB1VX_8L67ldOe3BeCc8-I3-Kj2DqqZfD9exmwBL2mA6Eq7gdB40YM-BFmDQQPJPewd6vl4FVhR4IcjLxN6hx-YFDcBONq2ssdUF6L4qzNEkvbrg_K-P6dB1vHYZWSDnSruj365zMZOBXiZWA965KVvFChkafGLE74Ff2RwXBJeHyYB_QsZPzX-qIZ6Hn_vMQXuyV0n3AYoxCxzAx0RR0PK21TFyDAkJWdSoIsKe58bbzJO4vg8syNd4eWELbYrApQiUPllAmc503rBDoJ20SpwrjH0seauhybJwXnyVnnG4hMQef0TjDIfnKqqUpKPJX9DZhzIUA5-Y_TFc6KjdKpcc9POLlzRP-QKbLQLW_sfczDq1F1xYMUU0asT661ZgT8-gfd9yjx66dpvuwAD2vLFRGz5r8iaP_hpOresCB2x35ShDhQOHrnZ3oeJX-DGf2I-ZlacFhaXY-LXKojXpzwJCbiV2-hw8qFTNkQSyQqnwhfuMF5S5FaAsgCDUtyaI0kUNFxE0usXZttRVNTUF0_IB4FSAO%26bt%3Ddbl%26ch%3DAQEAEAABABSGtV0qzuqVzOcM9GVF3xWi9GRX_k_U2_0.%26v%3D2%26mac%3DAQEAEAABABTHX6o6gKzxZtxGKdEtwdnUnvRh1Gk7eU0.
+.netflix.com	TRUE	/	FALSE	1684371380	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABT0BeA_lvhKwAzTiVgtewVpGz0oGbkgvbM.%26dt%3D1652835382168
+.netflix.com	TRUE	/	FALSE	1652846180	flwssn	fd6f9092-8087-48c0-bb1c-bfef5f22f245
+.netflix.com	TRUE	/	FALSE	1652843864	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1684378425	OptanonAlertBoxClosed	2022-05-18T02:53:45.232Z
+.netflix.com	TRUE	/	FALSE	1684378425	OptanonConsent	isIABGlobal=false&datestamp=Tue+May+17+2022+23%3A53%3A45+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=6.6.0&consentId=0ba5abd0-bdf1-4ca8-9fe7-fc2fe603fcfe&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=BR%3BDF

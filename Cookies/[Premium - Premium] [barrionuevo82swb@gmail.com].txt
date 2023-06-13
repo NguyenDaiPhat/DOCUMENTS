@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1682057366	nfvdid	BQFmAAEBEDE6YwcZSdUm5Nh-LpR95ftgxBhbNVOaqoaUcFOamSgUYJP9eJJYpUtYdIvUhA8zhJmyhCCNY8iU3twZKl70m6Cn9ViVfJaq68sgl7zXAd_NFiCh0JFJ5fIcUDFQTrLmKAZUWYXKY_0f9tT0y0RHAVKq
+.netflix.com	TRUE	/	FALSE	1684012285	NetflixId	ct%3DBQAOAAEBEBQoF4dPdVFkaHtT3iX6qjqB8HGV9Sbkrw-AM_CGuLZUZKXPPC6b3pvPSYyoVHG4PodhnRFaM0LPqnxyTG79u6ER-n3Wa00KyWWtsA50j4VGRnTq-npKwIlljo_GBJwDczzz2qbw0T6675oERSLLu6STRYV4d6xvy05r-27NUtrUT_nnTDq76oEsnONaleRXA2qVI9BQxeX3vlxU6zZydHsGiiikc8ChUnbNKnNcsqxLSwRws0GTg2AH9UuKbSqXvpch7Tkz4eWRK_B0h1YCwGZ3xWEE71Us-03vUPppUtkx1P81Zn4AQQBIKFPzJmyetCCrmqsGyRg3pQOLy5H5YBbSJc6TfbKFX1bLju2-v1VKcwZdLQ8pc3GUpdLSOMamrqurRtKsX3aY1X6oMJrCvcqNMVpjCgAN1HPvrNKhRGzSrWhArfDWiGmvqrHdTFM54Lz9O8PVFHx0yJzOUEKXS_fHO_9_GUQ7pehEPNG3bALDoYD3tLerhpHH2py5xokVvOKF5xOm8JOSZeu2wUPLHNhUcp_LAFANASdXa6A0u5SD9oafHAsygnfGs3cF-UX494dDXtY-HkKgz0ibiJmNyq9eMnkagurd_nzVDcNMbdM8hyAMhhzg1tfOBmmiLEyNajcOvgWvBoUKt9ouYttwxCA5e1ocTSReaqZX66or-8cgNSU.%26bt%3Ddbl%26ch%3DAQEAEAABABTpo7isK5H4e_9dEX5r3HpP335DuRwl8rM.%26v%3D2%26mac%3DAQEAEAABABSJJfmo6Za1EAqWZEkfdU4UYArZ1OOzYfc.
+.netflix.com	TRUE	/	FALSE	1684012285	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSfv4D5Mbm-WAIBgJgoVV1WS_Wlhn52J9o.%26dt%3D1652481286511
+.netflix.com	TRUE	/	FALSE	1652487077	flwssn	33349670-17b5-43f0-a179-c9beccb9dce2
+.netflix.com	TRUE	/	FALSE	1684012464	OptanonAlertBoxClosed	2022-05-13T21:14:24.810Z
+.netflix.com	TRUE	/	FALSE	1684012464	OptanonConsent	isIABGlobal=false&datestamp=Fri+May+13+2022+18%3A14%3A24+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=6.6.0&consentId=4b47ca9c-5fdb-440e-b1b3-9aa1ac1f1b11&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=AR%3BX
+.netflix.com	TRUE	/	FALSE	1660252463	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1660252463	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1660252474	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1684012498	memclid	363ed590-44e5-4202-b9ec-915b9acf2634
+.netflix.com	TRUE	/	FALSE	1652478294	profilesNewSession	0

@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1681530728	nfvdid	BQFmAAEBEPS0srlSZr9CYO_Q4rtDaUVgdwlPTbabIURKxxtya2pgZzIRdPGiNcNH4eaNugY__rrKqoM1WxKrnwIg_pZFfo133lBL24NDEhi3TEWn6d3yn3ozzN6_2RcFetYVzdPKwJyBFJAGdVArdfuodMY6DHTz
+www.netflix.com	FALSE	/	FALSE	1651204324	perf_dv5Tr4n	1
+.netflix.com	TRUE	/	FALSE	1681530737	NetflixId	v%3D2%26ct%3DBQAOAAEBEKvhocOcjB-2ppuDVH-RlayBwOY2_oF1Ho-emI1lwlCyAM_mKikVAn7Q5tk5V_S-y0nqPeWkSx7BBb1vYilzXYU2d7uh3N7zhP_-kZr7OoXpKGMg01PQnRzfyYNahDyIoc22kk_hSnjh65zvuZs8FwHcFUgrYS6HvXv2nPSAqPeLSlP8EVIyxrih3dhM6VSt0vQy7D7paEyVWUzfZOdj1hfTWL7v7zbGZPt_K6_eB1is7fXRfU7qjuGYvCke-H3AnKa5xuofy_UaZFLI70doa8lTxJhC_WfCWKS4xoYg_ek0qIrey2KPJ_EKGY6wtEdS13Gc7Xlsc0DmNHiPP8TK_okZogjvaaEwWXZMnDIjTaFGz8rqsJSU-z10CnVhIFdzS-vmGZPqHVs24IwlBSJhuhyWr6GFCGss5HBOI_N_J5FjZYSwZ89qRg5KhDKLpJdAOJVzpv0L5VBoJiPsIvOGFtLsdNqx1qfWKs-EUbcTy1u3hZ_mH1rl1jvymv2npTMXzIhnVZgmsD6GN0CynCA0hH2zS66CBNgOVwtJoKg8VWVtNcarCXL1J7EV3nhlX-scRvc9TPEXSIFIwsOnJTLUqjicfcuT7L5MsLWuqqcG06pYE0c.%26bt%3Ddbl%26ch%3DAQEAEAABABTWnJKc62geM_nMDtr3GsHlPZzstTUot5Y.%26mac%3DAQEAEAABABQLdU_HROUj5WsnWW71cRToY5xnrGoasRo.
+.netflix.com	TRUE	/	FALSE	1681530737	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQKiQILx0lotfxQR7UPLW0sG6xRATelwto.%26dt%3D1649994736456
+.www.netflix.com	TRUE	/	FALSE	16836716529921014	cL	1649994729066%7C164999472419446718%7C164999472475255951%7C%7C4%7Cnull
+.netflix.com	TRUE	/	FALSE	1650006370	flwssn	2284ebac-b33f-4aec-9034-c205c7ac7ce8
+.netflix.com	TRUE	/	FALSE	1681531601	OptanonAlertBoxClosed	2022-04-15T04:06:41.654Z
+.netflix.com	TRUE	/	FALSE	1681531601	OptanonConsent	isIABGlobal=false&datestamp=Fri+Apr+15+2022+01%3A06%3A41+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=6.6.0&consentId=aea04f6c-8d05-418c-a53f-3f5f8a71cb10&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=AR%3BB
+.netflix.com	TRUE	/	FALSE	1649997401	profilesNewSession	0
+www.netflix.com	FALSE	/	FALSE	1652587604190	tried_coupon_cookie	[]
+.netflix.com	TRUE	/	FALSE	1681532212	memclid	ba3afd75-ddb5-4b6d-8585-38c0c0791377

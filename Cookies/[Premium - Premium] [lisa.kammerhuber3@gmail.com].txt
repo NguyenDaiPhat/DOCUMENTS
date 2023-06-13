@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1706484530	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1674906665	nfvdid	BQFmAAEBEFugUKSqmvetYhhd2h9Xu8VgfAqvCRkvbliBX2--4D8IeJNF2JWo0-PBiBxdTy8JuIe-VQoF5WnHiarITHXv8XzUil3BleGiV2W_Dykcgfa2YJk-ixgkTPY11LVwBWWF_hDTFI1_nPyi2ak1LypCpESE
+www.netflix.com	FALSE	/	FALSE	1660650715	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1676131208	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRFYYd1Gsdr2d-gjSKQKXbg2R86ahjm87E.%26dt%3D1644595208775
+.netflix.com	TRUE	/	FALSE	1676131208	NetflixId	ct%3DBQAOAAEBENRofrguduoRfcXIgb_l2qGB8I_W2fJphCW6LryioWARcF3orJkOlLpv_REpzFEGM6Ej0UPWZbdF1x718Hp4Zn8zr3saErtQlnY4hVtUKTgJSdrsky7L8vCQfj8L_D-G8-FXSr5UtgqLHyI67DNd2tioCvRGfDWBcGOIEfzMJ1n2tQIXC0FxYZiyi7abrm6hMt-VHeSgmE2BD9fvoFmBzO4O8fjz8Cu1G-zbvFcm2Alt4C0XsQ-NzhM1Jh0CMBGdkYL_FN3QwGCazPabqm50U9K-QLfeKbW1I2GqzqND5Xq-P22hRnAzmxG7SgeBbmvccrgATce4Q_27SlI_72R1sYEfAqqUQ-gLrjIMnsnLkD0c_X5fBWE93w299UltruaLT6QMc5DXkBFpN-3YKNK91Gva1LEo0e2-i5VkF-ngLhylNWfF1X25tuFmHiruJFzV69iPaWIrucpjoxccy_1pmX17TawIQWiEe6DmZMVdJgeOjOIqorQQ3VK4CCMYS_-gIxkgxNvR6VALCOC9ykFDLSan8GDi45BDdwqgIKBGAaFlIKIib13wF7YhAE8Fhxs0CwueHsKZN0MfdBznooUotnSZWKGfC-mOVYNSUVQKPxGqti-J1vmr02DEmliKBT6quz06SxHojVuCjZ3gkEjZcAPZ-dL8IHMmtPVFzTuiDUhCaBc.%26bt%3Ddbl%26ch%3DAQEAEAABABQ1Eo-G8pJ17IrlfjKsBpVA2xPUpEuKnOo.%26v%3D2%26mac%3DAQEAEAABABTr_-75zEVnkAWvOQdtWNGDmbJ8_miaVtU.
+.netflix.com	TRUE	/	FALSE	1676131266	OptanonConsent	isIABGlobal=false&datestamp=Fri+Feb+11+2022+17%3A01%3A06+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.6.0&consentId=4dcf22e1-35bc-4d35-979d-f7da2cb7abf8&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=AT%3B4
+.netflix.com	TRUE	/	FALSE	1676131266	OptanonAlertBoxClosed	2022-02-11T16:01:06.562Z
+.netflix.com	TRUE	/	FALSE	1652371271	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1652371277	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A7.45708%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A8.4877%7D%7D
+.netflix.com	TRUE	/	FALSE	1676131298	memclid	a875275e-98e6-41ae-9eb9-c1ae37ed249d

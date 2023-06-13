@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	FALSE	1679706108	memclid	7f47b3f9-6523-417f-bbf4-5b115d26f8b2
+www.netflix.com	FALSE	/	FALSE	1658521870	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1655946093	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1704355775	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1672777885	nfvdid	BQFmAAEBEMLpIlQApgDQRO6iR1xOHoJgQq-BCC06FsqQGwXWzvWXb3QMajX29GrjCrfcWZ6ANIWCegl9N_TbaPYhlAE_Foe8iMXfNywau6Um8F1S08SP2rEkAqK0Z1tpdeaw_4yfvD-vkondtV54VPCLK46Wz0CT
+.netflix.com	TRUE	/	FALSE	1655809463	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A33546.9%2C%22throughputNiqr%22%3A0.31626608278601387%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A33546.9%2C%22throughputNiqr%22%3A0.31626608278601387%7D%7D
+.netflix.com	TRUE	/	FALSE	1655946093	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1655946093	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1679706094	OptanonConsent	isIABGlobal=false&datestamp=Fri+Mar+25+2022+02%3A01%3A34+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=6.6.0&consentId=9f765199-7c11-4b31-8400-2fc157778e9b&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=DE%3BBE
+.netflix.com	TRUE	/	FALSE	1679706094	OptanonAlertBoxClosed	2022-03-25T01:01:34.003Z
+.netflix.com	TRUE	/	FALSE	1679706096	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABT4kv1lbwUfUW3w-FwlRUd8ZUGeAzwfGRE.%26dt%3D1648170097650
+.netflix.com	TRUE	/	FALSE	1679706096	NetflixId	ct%3DBQAOAAEBEHor1WgaDP8qN7zEe6Sh_H-CYDzk2lTurTMW5hhIimAgv7TSTo5OvzojHAdZRvBWPbhClbkJjv-sGUCAw7JT0plPfRrRAst7lbAJerzMbGiIFjt44MLVfWD_uV7Zt-OVrUnswjqVy5yJ1kbpvVTo7cKlvYzWeu4qNhB96XfS-SFKrqObMmGl7LVTSEWPPNrp2IGmhEcHiVWqsACanePD77KypOgGMu0_6JT2w-MP8sXrwWqN4cDdK9xYS_NmDHO4UkG2WC9LBaP2fWMPk7mbEYqeQzIpGrnBi9Od9fM0A9Ld2rwTOm2WufPaRHzrjZKEJTNI88q9t7yV6cVyMSrQ-_8qByy4JkOOPpBW5JDX2V2siPPQ-1RV-r-8NN5_OYlfbAmidUWQNFRUEqQLYWvu1h_clDaR90YPSEN7_PtSVVT4AoLacEv2YuRHNWnLC3iQ_Edv2cWs1BJ98HxgXEs8W8y_9LSD30iEQrw83mVYTIPwu7OZrLQUWSxL3COFuIQEqyUUCGKUAsgvys9T4RgAspRcTM7XwEGpTJPWUOSsNzyP6fvZl-eM8qvmzGCPMBvWH4iMCbUanxRjP5gs2Oig-Aktf1E2tiokHQMM0VXohMv1mwyhRwXVjB2N9Xwyb2v17JdJW9o-8FjIwwfaSRg58lpmo05oUabgBc1czg4jlOt8uc7W0wSo7X_J1ESR2UzkgdaFUoUjk2ZmiEpneLQyp7gl9NTlRQG3YGNz0MrCY_jMsG9B8PPlrVccV3JPIggWVmeUNE9u6l0mupd64dJO1rJMxoBA003zutaXuaBEXIJzFdEF0U9sWqK6HXroV2YZFdff%26bt%3Ddbl%26ch%3DAQEAEAABABQewbPkRaqekU_WhETAWqtqgMcDBfD8aPU.%26v%3D2%26mac%3DAQEAEAABABRyyqkb5Lnw9FHvWdw1KWX-435ltAKUg10.

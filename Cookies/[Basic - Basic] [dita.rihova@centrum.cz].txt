@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	FALSE	1679091176	memclid	979809f6-865d-4ee9-9dd2-2276c23a46c0
+www.netflix.com	FALSE	/	FALSE	1650145674292	tried_coupon_cookie	[]
+.netflix.com	TRUE	/	FALSE	1655326565	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1708911054	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1677333323	nfvdid	BQFmAAEBEBDA0xGTsDMjkhm84HZOyvFgO-9ZvL9Cs9LSftkljeYNTIItMYYZwCCQRs5axWixFOddDnySVfaKQPUE8YVgsWx3zomas-aHzq6iBHooQXJGOTuwXduNkTnZObETOxzqiy8oF0WRxQ-HsnZlaRmOTgKu
+.netflix.com	TRUE	/	FALSE	1679086564	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQ0uLYXCXSAlUgcDNoViv45yB7OotaPLyU.%26dt%3D1647550563394
+.netflix.com	TRUE	/	FALSE	1679086564	NetflixId	ct%3DBQAOAAEBEOZ56XQuJh-_ldIZsbAe8piB8KE8HiwNgEs5JvAfANh0ZTHbcDrl2kScNrdwnsuYFFtTqwcg9Mbf3k8tzOfqznMYozJ77hGhkZChRPfznimma-mxUUGpFys67_Cd0j40eQjTlmhLh5Jcc3Ly_7km573YITFS-Yk8-C0BzEC9fBfY5igRQtHjW4svDm6RXuC7d641h5LsDBj2qkgfVL8nfrsu5ufyj59Yl0re7HcC_w77Eh2nJRFw_sJkVbvb3cs5m0xbpYKrfylnfPV3SzcQetGOYOMKQtj9PMNvurc9BZgR9Wa61Err8BlPzEsmmdv_M9ReIi8VEf9I14ijgUDDsrMroWrz-GdmenRLbDeQnT4CndZ1dv2yWxaTdu8vdX5v94SHMuUHILqrlyuB_lD_3SIBLYPX8wvOSPxC1zQeLRn83atC1c9JtuktngT0i0r8jzESYdUpYVnIDL99O4vd11JW9pDqp0WKOIGPLZTnpKS_Wz7helKSkTBQsL7e4N2MeII5jdTsXi0MAdE5NFrZ4cGe3c1Bic4UkZJkcdQtealhxtRBpvQpm0APhycZOxKEbAT6TuGOoPJWS2vIseXSoJpfWox3D0eZGmC_2EBizvRCdApl1oP4GDqHrCgDMMcQ4OBhkyQKeSocNwWaMVM5JpMNlzdj3ooNkF9HttDLkXzKb2Q.%26bt%3Ddbl%26ch%3DAQEAEAABABS6dz-u79KYBGVv-jn5eDWJeNsVR8B70Mg.%26v%3D2%26mac%3DAQEAEAABABQ1PuexIZ9g2_mNROCATwPI0oaUp5vkLLY.
+.netflix.com	TRUE	/	FALSE	1679086566	OptanonConsent	isIABGlobal=false&datestamp=Thu+Mar+17+2022+21%3A56%3A06+GMT%2B0100+(St%C5%99edoevropsk%C3%BD+standardn%C3%AD+%C4%8Das)&version=6.6.0&consentId=66da8ef2-f6a3-4632-811c-b00d4f9d4fb0&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=CZ%3B20
+.netflix.com	TRUE	/	FALSE	1679086566	OptanonAlertBoxClosed	2022-03-17T20:56:06.960Z
+.netflix.com	TRUE	/	FALSE	1647556986	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1655326687	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1655329662	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A1062.91%2C%22throughputNiqr%22%3A0.9974137544005509%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A2052.03%2C%22throughputNiqr%22%3A1.405855914365048%7D%7D

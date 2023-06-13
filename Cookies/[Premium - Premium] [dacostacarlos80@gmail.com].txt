@@ -1,0 +1,9 @@
+secured.netflix.com	FALSE	/	FALSE	1710808690	thx_guid	fc54623c2e684d438e77fed0a6ccfb40
+.netflix.com	TRUE	/	FALSE	1650752856	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1682287151	NetflixId	v%3D2%26ct%3DBQAOAAEBECjvQjIsi-95EFtSwiXt2e6B4B0dFfUTZSoSCmjo3jzr1r6qXdbgStxeg0kMJ-bMWi883JGAc6oIQxU7sYYGZTqnvyVmaBWRZKYBG_9mqaWf4kuE8rXCPGZmynKKKEGI1Cr07j48noY4W5ozc2prwHDi_lJC3wtEC9zDJWD4do4-51Ubk2MieZ0ffNCBsRgmMRDzpelaBp-bjoADHdxbX9qIblDoblnC9A5w7ufF9lQs3bCHopRRSlUvFma4vRne7g3g39FXG9pu1C1i8kpBW8g6L4kZpV0U_qYEEAGsOvtw91_Fr0Bq70kqSIdLk9CEaVih0fFTrvgqPWwz2SDQISHGpZlTg9-blpbau6vYl-GHNHMnkzCd4q6TRRvRL8LVXA_WpvF_fq6XrEEFOefwWFNEyGI5VAr58y2ycGdi8l_OwPIdNu1_BvmmEHvQbOL1nA-nfepnmVeHgQptH74r2Zr4-JS7WxUfgo7mk0f2ZopD74BuY2ZnqZtAiR6hrskY0EhYLApD5VC3a_EpH5ryDg9g14Ss0NtiX1Bzy50qTdQlkjpoMh3cOi4lrMZN8E0-2jGsp6X4znrFILqbjUtNDcWbQHSK161vI_SWB_oJjxCsYaWJt9FRLUfFByixfkyEfUlU-Vab7fJghaX0HqezBQl6Nw..%26bt%3Ddbl%26ch%3DAQEAEAABABQaGgpw2yN_HQPLCdewXpe-bKMTI427iUM.%26mac%3DAQEAEAABABQmFG2gqHVRCpd6Oovr-CHemrvuK9Lrp10.
+.netflix.com	TRUE	/	FALSE	1682287152	OptanonAlertBoxClosed	2022-04-23T21:59:12.026Z
+.netflix.com	TRUE	/	FALSE	1682287152	OptanonConsent	isIABGlobal=false&datestamp=Sat+Apr+23+2022+18%3A59%3A12+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=6.6.0&consentId=31e7f262-fddd-426d-b576-5135d4e54424&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=BR%3BSC
+.netflix.com	TRUE	/	FALSE	1682287151	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTmr28GBhvzBcYAlNmb1GmLtXeylLjLm-A.%26dt%3D1650751150250
+.netflix.com	TRUE	/	FALSE	1650761950	flwssn	b16e7f64-1106-4078-955a-5b8186485921
+.netflix.com	TRUE	/	FALSE	1682287150	nfvdid	BQFmAAEBECtEoREPa87hih3qPppa7YlgMTZJ16avsLl8DjplMC6RoS_fbxU-tx4VQfT-fkz28LNslZcnqzPsJ-a0Uq3cxc73n4eVU_KA9GYY6-RTQjUKAuG77FJVH3lNbxQ8amtnGH2Bz-i-QF1LzU5gbe7mcbsA
+.netflix.com	TRUE	/	FALSE	1682287165	memclid	b532ec42-1c18-4dc1-a0c7-2a46b4112311

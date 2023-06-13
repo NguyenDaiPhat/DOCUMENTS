@@ -1,0 +1,12 @@
+www.netflix.com	FALSE	/	FALSE	1668887702	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1714721607	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1683143705	nfvdid	BQFmAAEBEIV_wjYsEa7K1FztJrzkeORgcEzLf_ceh-vSz7Sn5Hj2xnS1936cw436xFnviC0pz6rYVFhVqQmW1nclrTMgbb7qCZjbv2cB_8GsvcHuDZTV23v0yxzKPz1SR63VKFLMfL3VJtuYR1uixLsO9B9JMqlB
+.netflix.com	TRUE	/	FALSE	1683195901	NetflixId	ct%3DBQAOAAEBED-weE3OnSdWGCH0PP8pRQKB8D4BfxFPj7fy_azsEFBYpv57SgK2qsVIF136l-4cKW2A9KI5O1a_QgB0d8f-9gzGQIWA_rCgxVNm4nYx8jWiJCuYU8Q4fgEIT1Ze7mpET2Mr-QAO8ujA_rkIQ14NjPVOd4KTZxeM0KyWoD0OL_ttHrDyCsZZqK9VE00Y8YXGw4GTWB9SiRYlfs53tyvuWn_bviUKvGa1b5Rz6f0Q_7GHBUdOqBLhDurbp4BI13KHtlqTKBhTcgLpG0ojafgv6ysn7z1MzyiCR1WcyNvam92THXPgVbkFsnDYA2lBp9fT0TTCp24Obro7fDEV_GssmwJkiz_PTLwxpGEhGHj-bZ2Nj1VSfLcrvFi3NtKaxiglFPHi9ObxiUiMi2tUL3tgxSfy8dhjV5VQA3w-DwVuimj_Es-OZSSZ4GePiLWoP4FZfcHN7CI7cEYG5gLtpanLutnwRukgFkPjm3Haslal9uqx8jbrhrbDGdHcF24IeK6hcfQFKZWuYpR8Xwu3HePjaEZ6urgLFZUUbEc3Wa-Q2HoMD0CFzBuu3z-9mZJ9-p5o_YSUZE-u9Dxntx4Um48o21UB2ZA-nRl6Fph6rnAAIiooqoSPBofTyKuiO_eZ0Wg5pXLrxvkYn7s-6vX8KHY6IGrzONo1AKI3YOvZoSK1woDhTSk.%26bt%3Ddbl%26ch%3DAQEAEAABABQyfAjcSJlc_wvlBnKqlOv8YJ5pDlGjWTY.%26v%3D2%26mac%3DAQEAEAABABSyTxNn8--Vj_rm8D_Iyo5gVmgQw-o99gA.
+.netflix.com	TRUE	/	FALSE	1683195901	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRadZ3AECKGQ6HhNW-B-1Txkmo4UQZyMwI.%26dt%3D1651659901874
+.netflix.com	TRUE	/	FALSE	1651670705	flwssn	e6a7a4c7-db6c-439e-b892-3bebc3f2f744
+.netflix.com	TRUE	/	FALSE	1683195916	OptanonAlertBoxClosed	2022-05-04T10:25:16.296Z
+.netflix.com	TRUE	/	FALSE	1683195916	OptanonConsent	isIABGlobal=false&datestamp=Wed+May+04+2022+12%3A25%3A16+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=6.6.0&consentId=75af5688-4ffe-4e1c-98bb-d049e1daad06&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=ES%3BMD
+.netflix.com	TRUE	/	FALSE	1659435915	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1651701599	oneDayAdditionalExecutionLimitLastInjectionTimestampXx	2022-05-04
+.netflix.com	TRUE	/	FALSE	1651662141	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1683196355	memclid	e48f32b8-b779-41ad-b12e-32f43a1882c2

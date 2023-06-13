@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1696553218	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1664975357	OptanonConsent	isIABGlobal=false&datestamp=Tue+Oct+05+2021+15%3A09%3A17+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=6.6.0&consentId=473b1f60-2d91-41b7-8dec-a274e4f12a67&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A0&hosts=H12%3A1%2CH13%3A1%2CH27%3A0%2CH28%3A0%2CH30%3A0&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1633450170	flwssn	80c1654f-060c-4397-8369-a93e42666862
+.netflix.com	TRUE	/	FALSE	1664975368	nfvdid	BQFmAAEBEI_sgDL3a49H3VHQNGWdDUhgIjamgy8en9-rZtYuJ35qcPIxB0qpbEZuGa_KJpU6PovkcZb7nteHILwxsqSbjozIcpU6g8yxrax6RT7OzUw188EEgprIMF4cKNsRdqikPqiv0mdfnRzdC-P41tkBulci
+.netflix.com	TRUE	/	FALSE	1664975370	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSb6ZNLJmS-ZDjZTdvV3kMeefpx2pJsXbE.%26dt%3D1633439370509
+.netflix.com	TRUE	/	FALSE	1664975370	NetflixId	v%3D2%26ct%3DBQAOAAEBEIt4x38l0UtSelB_iQYWOlSB4Ao_fSB0x4v2njkbjKzJIzZOMQQfh2UBp6hU8UehhEf2IFO0lMSo2deZ7tQ0Hu8-Tdw1SqbvilaaVMSPvM-rGpfvSpij3GWEp3Z2A15i6y3YvswPuA4dEZpNgKtyGxBmK4n6BFD_hG-7QT5g--Qud-jNWvUAk7QsL3qp-9dLNI3w5T-IV2riUKSReyO7K9IRByUpap_Mrlr8d68Ttytu3S47kT0VJtXZGWTMZWhu65efoCBWic9OYVLRxeyTKhqrAJYpbTKZxvL8zDQTMgBRcwAG-q-HknmpOEzsnpA05g45SCuJV0ib7il0xKBY9EaAmfjYT5YA-lHlzkn2DFtL4AOBMUNCFSmlcT5MpHnBEzgIANifHY81H68rXGO69Zk-uCdfM2nNgG9RQZdSqk5vWO9u0wuqCSaIht0lxVoMha394FAqOPcpZtHOCXcYDM2HNSqltxGuL2uf6ZiFTFMXwpg_oi3eELWY47t8zN2FRJ82mkCuaiTeaCVRppWdpI1Kl40Yt9oehyiH30gI9BzRxw_eA34cW5PbiqYgu8bqn7IS5dKbEZdJw8HM9MCLsNXtzUWY5edE2KaRzv6kkJ-8ZcFamDCn5mKZuTdZ9xLc7Fuo4k44OGjxaQqaGZDFPsH6CQ..%26bt%3Ddbl%26ch%3DAQEAEAABABSam6EdrA2FTxsLma-eaDAfY80LRrtZ8_0.%26mac%3DAQEAEAABABSdR9aOL4XtbjYYDzciUJzfFkLm6HCDxYk.
+.netflix.com	TRUE	/	FALSE	1641215369	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1641217285	playerPerfMetrics	%7B%22mostRecentValue%22%3A%7B%22throughput%22%3A67.7713%7D%7D
+.netflix.com	TRUE	/	FALSE	1633443379	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1664977593	memclid	af1d71c7-eb9d-4b82-96fc-127858746f0e

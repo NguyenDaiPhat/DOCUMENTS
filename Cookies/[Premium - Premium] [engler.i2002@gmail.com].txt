@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	FALSE	1704528122	dsca	customer
+.netflix.com	TRUE	/	FALSE	1679325995	nfvdid	BQFmAAEBELLqlwrTUO0uFyD9zGDiTxFgA7zT5Aa3JfT4kLTG0dyes6CvGXQCEU2R6Db91fFO5I-sfTtu6VoXRAKgNLpmvHGjpv5_cvXiLZfsa0R_MdF5h3FWIk7mCYArJLiWO2nNpwutC0ZdDsKQrru0lUqrXav2
+.netflix.com	TRUE	/	FALSE	1655566052	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A0.717457%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A5.4317%7D%7D
+.netflix.com	TRUE	/	FALSE	1682547404	NetflixId	v%3D2%26ct%3DBQAOAAEBEByjSOMhzWp1HmtypXYwLUiBwM9g3_A6Sg3nkv0QydZRShmrunBInUshh_aejm8PdsZbibHYcKpT2Sd6wl_yay0PqfRdV1CJUDG9hEAmsJjVPf7E2sslElQISPc20KfIMVq-XVYu1V_hLaQ3oVhjbHZh1oEuJ9-onAPbJSoYjBYp_sqByckitv6X2jwOALTDWkXr_tjdtux_lNL3xlxM-4sUMPKBvo5Sfl-T3zqk419UoZTIvoE6_O5FVyCOpHrhvd9FfYYA7w6aOSpGhEKyE-M86nE0GDXX0b62AOI9a23z6f9xBe7VwTAFHls-de1h9z7h5dDlmGuwwVpvWF0vNVd1iOS6TUkRZ1GfNPUkD2vOntskJjPeQBSVolWBVeg7cMwXzhWdN5boAwP_bC4MLIDZCO7ZHFsI0Rk4md_ZmFMgJbXLVPPCfpOj_hPR78gSmfKu7ytyGg7CKcHKef0EOjfvXAhCusvsvvLHmp212jbahgwxzXE6KqJwTT3y8qZl3fO2kEQAs9jMnxvxo59l3wvhlRoJAFfOD2RwIaAhVytwZKebEXywCS55q1VLtUMvg9L11U37KUNiV5JeTA3cpTnVKTOoiFDU5BglALyVHai1F_I.%26bt%3Ddbl%26ch%3DAQEAEAABABTKTTEnuB48Bywh1_g0Mr8_DbTCdZ9-qik.%26mac%3DAQEAEAABABQezmj01uPWWwWw_e0CnA5NrZsheCqLBS0.
+.netflix.com	TRUE	/	FALSE	1682547404	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRsyP_jPvYs2nRZUPGlUGHRSg6ORbDlVNQ.%26dt%3D1651011404843
+.netflix.com	TRUE	/	FALSE	1682548842	OptanonAlertBoxClosed	2022-04-26T22:40:42.092Z
+.netflix.com	TRUE	/	FALSE	1682548842	OptanonConsent	isIABGlobal=false&datestamp=Wed+Apr+27+2022+00%3A40%3A42+GMT%2B0200+(Orta+Avrupa+Yaz+Saati)&version=6.6.0&consentId=ffbef770-fcb0-42b0-9b0b-a1af390ce9d1&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=CH%3BFR
+.netflix.com	TRUE	/	FALSE	1658789011	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1658789011	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1658789011	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1682554064	memclid	7ca02bba-c57d-491b-acc7-5d89a50c270a
+.netflix.com	TRUE	/	FALSE	1651019864	profilesNewSession	0

@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1713747522	dsca	anonymous
+www.netflix.com	FALSE	/	FALSE	1667913716	didUserInteractWithPage	true
+secured.netflix.com	FALSE	/	FALSE	1712842266	thx_guid	5efe015ebc834115a8f17ce995e5b2c4
+.netflix.com	TRUE	/	FALSE	1682172125	nfvdid	BQFmAAEBEB0LeTJhxjiPQSyRWKp8U4JgKnoPN0c9H6r2sS0QRA-WzeOUtep1JweCoSjNz41njwoJEwVTDUqjkF7BhGNNir5yGSRwvSaHLZrpcl6q3S_P-i8Lpv9brxPxRDMqSAUK2Xgzr70jzMWuUMl6EKyOtRL8
+.netflix.com	TRUE	/	FALSE	1682254297	OptanonAlertBoxClosed	2022-04-23T12:51:37.785Z
+.netflix.com	TRUE	/	FALSE	1682254297	OptanonConsent	isIABGlobal=false&datestamp=Sat+Apr+23+2022+14%3A51%3A37+GMT%2B0200+(St%C5%99edoevropsk%C3%BD+letn%C3%AD+%C4%8Das)&version=6.6.0&consentId=68603d79-bfc4-400c-9ac5-4a32eb480c76&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&geolocation=CZ%3B51&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1682513094	NetflixId	ct%3DBQAOAAEBEMHYcCZqMteivwy4aZ5AnbiB4CwlgCC64rww8nogPtsyMuRKVnKtr_1VMSeVprc7mXDc8mWktVw_S4jZ2gTLS2ytGhx92ffOb-tGkmu3Bb1Sfa1Y1yktR_cwaQruL6-svExNQhOTk_RP4nr0IPDF36hOW80nOE002Tw0rE9DnxBvz4HSv4iE-HiZ9ZIiGkQnMk3vEO68o-UL4gNnuFiz9CgrnM87tWGcdv35vX60BuC7mq9jO9oa_wrBDKwjmpI3Z7M5ZEu7nySZPlL3t_Lned3JKMnuOLFSmLfWGK447MrKCxrDDNKUl5UebANNKStWwTHSdUqAgkISLJjtda9QDLV9wp1DwQdu7l_BVBSRHv-O51HOW3i9_uZLBk1Mdfq3_5iQll78jyPKp3SFYwDMCbx10s7ufOLXTcsRfFNaIjC28xvrsBiuMGqZ4TEVTC05ej2Q149ZeTKr3a5T8hU08vkZBKZhaS9_qADCOeVAdWzJUKeK6vGM_tzAKzbjRwIX7mt__fS2IlHjtLTqL0fyHGLgVihAcbAIdVQNIeB8LLBaQfZBaBJky5zEBq66k1x3afBcjOUzRmWZXfWDuHntF93tV3VXfhBeDy5-a1fs0pktqtm0ok60P2wBwI5XMlZHebjAbaB4jgQUzcvjs9Iwq09iBg..%26bt%3Ddbl%26ch%3DAQEAEAABABS0IAe9udlXEXsLLILk-zNzfreT2ZyNGD0.%26v%3D2%26mac%3DAQEAEAABABRGpymPgBXKVQggOm4h88kprxDaih_B1U0.
+.netflix.com	TRUE	/	FALSE	1682513094	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQ4_1EFi8zPBNeLUdqBLU6Ru7ryvN6fzk4.%26dt%3D1650977120745
+.netflix.com	TRUE	/	FALSE	1658753094	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1658753094	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1682513123	memclid	746c4c4c-b89b-4b02-8db9-431800711f1d

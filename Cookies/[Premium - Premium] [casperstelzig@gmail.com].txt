@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	FALSE	1676294473	memclid	3e94f103-866e-432b-9f14-13a2f5f5e422
+.netflix.com	TRUE	/	FALSE	1652531640	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1707814475	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1676291636	nfvdid	BQFmAAEBEFLtf0nOocAxMSQVm0_Vvjdg3EFKyN5_r70pPtvR-bE2fF4IIUjsaM4Zl-thRj7UvOKwQMSXQh2IBjG83TiEq_KnipuOmbOQ6F18H26AO1FUi7wdYwsJxDKheSnE712KFyI3K-C2Hw8brDMt8gspEj8Q
+.netflix.com	TRUE	/	FALSE	1652531640	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1652531640	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1676291640	OptanonConsent	isIABGlobal=false&datestamp=Sun+Feb+13+2022+13%3A34%3A00+GMT%2B0100+(Centraleurop%C3%A6isk+normaltid)&version=6.6.0&consentId=5978b1e3-11af-42ed-b8ff-c4cf3a5c5b0f&interactionCount=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=DK%3B84
+.netflix.com	TRUE	/	FALSE	1676291640	OptanonAlertBoxClosed	2022-02-13T12:34:00.544Z
+.netflix.com	TRUE	/	FALSE	1652531660	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1676291842	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQRWsb7yr9wxi3cnrzUB6UD0MwAnxSNJWo.%26dt%3D1644755842724
+.netflix.com	TRUE	/	FALSE	1676291842	NetflixId	v%3D2%26ct%3DBQAOAAEBEFXQTt6-i-I1pdpmkv2qMH6B0BzV1eFmO_bTTNGqEuH65rLJkHnq2YI792nLNkgr0jPCgjfNAElt7QYCc_P-rxxMVKj__U8yrCOv6V0_fzDHip_u6lvw0G5c9ZDUn9HtniLi_-4jn4lclZOQiuQ40mH05-iLRNxNH1F0DFnVvkMWfJGdg43Llv8oQZ8FvHXfiDAvuxfzMqlHkppMrEOgIDio7J5tyg9LtrsTDiaLhNngPmHIeGh-pH-Tm4jOJXM4yEPuF86DGoiAwkGiYyo3moaYI8wa06ZrwpPAoa5prvZnh60oEv7vnHUdFCtFtwiMC8VVZYlPpB_UzskffSQNYWeYboy9SuCLwIElz-qWuTIatQf6xdPARwsdJ44lod41ZZbJL8xWMlYuZJw6OR-9Z1u_7HkfdcElJmJ7x_uAU5jcEIO5F2EEMCEfj5GS_SEtCZOXJRS9M-BBLLF2j-mi-p58f9CaNSd13HZrkwue6eOJlAU4EZykvMtKPH-PIQZncWiQ0UYCHIiPoGsMqWPM9FBhQCGJ9frbZ0Y6G9N7BychVaQhvlP8DDZKTM5uULOjFvDJS1rUeQtkFJRbuB-SKmKyhFIfb1ihDza30LlGgYBzAymldxn0nqfDEHN24gVwo3e2%26bt%3Ddbl%26ch%3DAQEAEAABABTd4N3Vvvxk_h-7ISvdQQVueTeNCYp-osM.%26mac%3DAQEAEAABABRencMCa-0wULsS6SaRvEE_GekVDNZwmtQ.
+.netflix.com	TRUE	/	FALSE	1652531963	playerPerfMetrics	%7B%22mostRecentValue%22%3A%7B%22throughput%22%3A693.071%7D%7D

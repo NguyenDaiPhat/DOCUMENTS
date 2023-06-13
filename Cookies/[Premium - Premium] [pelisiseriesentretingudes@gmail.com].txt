@@ -1,0 +1,13 @@
+.netflix.com	TRUE	/	FALSE	1710578913	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1647475834	flwssn	ca9293ca-32cf-4324-aa1a-ca30aef7c6ff
+.netflix.com	TRUE	/	FALSE	1679001034	nfvdid	BQFmAAEBEEiGfymMsyOWMKOr5bmwpl1g-QAaw8ZeLHRy5RIy-w3z9K_Q-hw_SQ0emi8iAHoGw1TXBDmzk79kpNKsrwMI5nSIoQE2EhgKXrW77Glv4QTfSGl4e2nGmty_SN8s-sSkeE0rfQxgl3sSExkvG0JRmrvp
+.netflix.com	TRUE	/	FALSE	1679003029	NetflixId	v%3D2%26ct%3DBQAOAAEBEPyV4X36gJD6EOO3RKm9Xn6B0No2V2O1jsj-wE-lEPcHJrlfzIqOMt-rmiXHolx9hxtHOq_nFPIFswrnrv3PibXjB3TCwuUclxn00lg4Xt9AeUYjZHM_YKXUex0YQTFwkLcQPETWn5ebz18E8TbYBOJZ5BHEaWUA7kKkW9DW_GvA-5ZohEpd-fpX3XyRgodTaTuIS9oFoP_AjsPPLq5J4M0Qe_fFjIknn7T4cY4BvZOCs5DNAFKN2XLU35dyNMuP_GNPNAS5BKXp5tpfjUcCKAM_HwNOmBt-LJOE2grHimZMKCfuHRZbiLlPGh6Wz1YevmMsWKpPu_gmJGBBXz_V-dGQ26Y_iZJArOiCvzrQYTMWHXtB5I_BgTnL6cQIVyKrIJUj1BYLt7kkBJ2DsygRmJ0myyaN6J-Mehpo10b8SO02wm3jU52N5xB0BDL-MqVNqAsMecrYrOEi6o7-bH4cHKgqUOM1wIcGcZTJwitQsyZtcuu3_3K1Z3Qm0bg4y6CTi-tsHwQyAK3RH1iQT5_m4CWFzHhX2U65WktPduIuDjU-OyrF2iO84-mmMwjhxo3uxhN7s7VTUmOZThI9c454O9HNI-UrnasPh2fEZ0M0SdbtXjXrwFrDkRKrsqgXWj6wE1PW%26bt%3Ddbl%26ch%3DAQEAEAABABQiVjhk6-BQlcxLptGWzurFjB6YtoRvdbU.%26mac%3DAQEAEAABABRHIfoE86tiLSkFmzZUmw1xbUhTWyYodqg.
+.netflix.com	TRUE	/	FALSE	1679003011	OptanonAlertBoxClosed	2022-03-16T21:43:31.100Z
+.netflix.com	TRUE	/	FALSE	1679003011	OptanonConsent	isIABGlobal=false&datestamp=Wed+Mar+16+2022+22%3A43%3A31+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=6.6.0&consentId=ca6bfa69-0dd5-4d79-baa5-feebb6d08e3b&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&geolocation=ES%3BMC&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1679003029	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABS7Z10HC51NHRKy6oM_VqlMB64aSGzsuWo.%26dt%3D1647467030782
+.netflix.com	TRUE	/	FALSE	1655243010	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1655243010	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1655243010	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1655243024	playerPerfMetrics	%7B%22mostRecentValue%22%3A%7B%22throughput%22%3A134.839%2C%22throughputNiqr%22%3A1.353989155913326%7D%7D
+.netflix.com	TRUE	/	FALSE	1647471403	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1679005657	memclid	13b1218e-318f-4fdc-8e69-c74fc3e96ff1

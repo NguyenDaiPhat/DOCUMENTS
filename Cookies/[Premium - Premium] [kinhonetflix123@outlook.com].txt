@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1683681582	nfvdid	BQFmAAEBEGbzml9yNWiFTM1HWIIgw-lgdxDTyD2eXnI6l5UopdrCU1fD4E8RbLiLPjXtnZOAsmIUHal2koLzEkVaf1xJCtDEvk3doPzrXiVSIO3GE4CInmCCW8wkl9Lhv9z57OFPpn3_FrlXx0H_hmFyRJNFg1W6
+.netflix.com	TRUE	/	FALSE	1683940986	NetflixId	ct%3DBQAOAAEBEBlDLOOh9K9Taunnwc_pzdqCICxCe1VfqxtKkKgb_JmAY49rS0SkCgUZKhItbpETtpLcL0RbRXyCf2NWJc-O86_94oq9PP72Zd_kJX4573pjoafVan5cIKyV0_iDpoIU8YZCU670RtHTCq85FK-kkVrBeA--89mdHAIIXttoINJz2n58kGCrwpt0IIykVuZjZim0f751zdD2fBL1ZWBm4KeHkRzp5-yGX_7lPvm533QSlqNWzYxLBzoq60LFQl7JCw9NGY-TmJonf_8iMZVMxQ5GmUKgDM467EqT5sLQyEF5t2lUp4D8BO1KFW2W9wWLPmn5UT1a2GUDrBizbVNqzfY4STio9cmyyvgK5-G4wbCeskcTKvMdDNN7yvQxvIZLxM1_JSEawBteChUVhDWEpoo3MAdroD-EpqRKqoCr7271s_-fKt-p_9XoywSsgOLIaptcigh9o5sKeEgcSPImwIRB6hB15ic33EpHeh4WecNby0L99n2inEHS9pjalKHcxkTlSop4_iHrIIwf37ThLxWaT3TMS2LHrHNeBnjHH6hX50Kjj5_MQNaHuzvDghVWcciAYxCn9WItoszUOc6nLi9my8IZC1v69CQgx-nBnJ0wKH2Xgon5LMdjAQjub-P8YucgFCQJU--3SahZjgKlPujXHcqSqKiOKbnka5oujUtIvTJ6nsJnJXpSt8Il-v9xhsEtbdGfQtBVcWuiqyCcCiEL_9Nh2d5QO_LXzpsoTZulY3I.%26bt%3Ddbl%26ch%3DAQEAEAABABTF6siIBcQw99E1yZ9_4HE39TvZnko2e0M.%26v%3D2%26mac%3DAQEAEAABABT60zj5hWf0bihlJ4uMZ0Q5ey93DPY4Yew.
+.netflix.com	TRUE	/	FALSE	1683940986	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRA4HVVLgKOBBZuwPqhmyPkY-hXDN45soU.%26dt%3D1652404987690
+.netflix.com	TRUE	/	FALSE	1683943171	OptanonAlertBoxClosed	2022-05-13T01:59:31.996Z
+.netflix.com	TRUE	/	FALSE	1683943171	OptanonConsent	isIABGlobal=false&datestamp=Thu+May+12+2022+22%3A59%3A31+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=6.6.0&consentId=26b71d9a-a106-4572-ba5e-5c73313b3c50&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=BR%3BBA
+.netflix.com	TRUE	/	FALSE	1652417968	flwssn	bb8d2123-f7e5-43f5-adb6-324c535b3fe5
+.netflix.com	TRUE	/	FALSE	1660183170	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1660183170	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1683943520	memclid	334310d3-9849-40db-b857-68013441bbc5
+.netflix.com	TRUE	/	FALSE	1652409701	profilesNewSession	0

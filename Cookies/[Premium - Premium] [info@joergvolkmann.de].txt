@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1680520032	memclid	2514143d-5add-4f09-8be9-bff85f8365db
+www.netflix.com	FALSE	/	FALSE	1666263369	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1656759881	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1712097273	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1680519390	nfvdid	BQFmAAEBECeFNEs_sc7lC1edVS0Swi9g2KFhkHuZ_sClaYu1XotjCJemTNCzXGUZgfIGiLYoZCZRpMiwTQ_pbzOizorFRc5NoGTAaICNGnC27lbg9ILPrBhe6-SvY3vQEQRr9UKMfmQN4WdQ88kleL7X4bL6ZBb0
+.netflix.com	TRUE	/	FALSE	1656759881	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1656759881	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1680519881	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABR8Djqji51jfnYZ_ITcrEYAcy4i1fJHQKk.%26dt%3D1648983884500
+.netflix.com	TRUE	/	FALSE	1680519881	NetflixId	v%3D2%26ct%3DBQAOAAEBEEn6RhpEvTh_tjXv9ZKmY9aB0Ez4tB-q8EAt3yhMl7WlLmHyxI2ANZbBVK03crPm58Og04Q0Ov-G_lGfR1boDV3d3IWkztySsQ9WHKy074N5kMuYA0K2Wq4eAoA_1OupA-J2aB47lF78BeEHOCbur5nmg2oPyX_e9m9rU_4wpCkxOHSGR1i8jNNbwu7hMmCH1_TRokxippUHHRYxFlIL2t7kOLzPGbsxF2yVU_8EtBUpsnFH7YkUuQPX3ZIV0YXIuyEGgfjC9k8J1Z_zd2IMLE1G79uWfGf5jZ8_lK2Um3QRY_rABChMSkQEYi9fdiEbXyg8DnpDn_ufIxNXUalYDJ1Uuujz-Npt7kN5p49mW7ryafYuiorZqnJsWhYXyuVnbgQVUIZ782SGvpVpi9SoEl1xfNoTOjzyNRPOncIZiCJzlJYCCmrCf_RZNcQg8qhXVdTKABOMZ7rnT1ij9N8Gp5uQPAHsVRxces5pxD4pY4627iQa5rutl_QuHlXOjq1kfvd_z7PVdutP76X0apoKotWRZRB4lHMH90H9TyqJVmY3p9KkIeqkptuu5LzF2VDBg_pLwrcyaWItD5RnwBg0XJA9D3iH__3u7xDSpWI60K_jYjriNWCgHTCwmgyQs0y9HTPi%26bt%3Ddbl%26ch%3DAQEAEAABABSYZFLMVv_ehA9b3pKfAyJTc8iSGWA8a5g.%26mac%3DAQEAEAABABQmr6CltBR75IDOaXkwVu-vE304ZajziPQ.
+.netflix.com	TRUE	/	FALSE	1680519883	OptanonConsent	isIABGlobal=false&datestamp=Sun+Apr+03+2022+13%3A04%3A43+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=6.6.0&consentId=326bf113-2299-48f1-b121-30a34f4c4764&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=DE%3BNW
+.netflix.com	TRUE	/	FALSE	1680519883	OptanonAlertBoxClosed	2022-04-03T11:04:43.240Z

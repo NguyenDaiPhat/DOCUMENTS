@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1646096669	flwssn	4cd4486b-f584-4067-8ad6-30c7991688af
+.netflix.com	TRUE	/	FALSE	1653861871	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1653861871	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1679972722	memclid	ad5747d4-1389-4a17-b9a1-59c2471efc01
+.netflix.com	TRUE	/	FALSE	1677623556	nfvdid	BQFmAAEBEFTvxKDNTq_pg4JE0wEb-Jhg68rO-cWAD7DdRU1e1q8uqPG0ysv644L_sd9M1g_bIoNLKE4qmkdSw166w32vb1XuSOK9ExqE6N6JIeaFaTlWNQc629R_t_TgiSBuLiV408iSwNwsNavaehkmeF79B076
+.netflix.com	TRUE	/	FALSE	1655337061	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A14.1591%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A14.1591%7D%7D
+.netflix.com	TRUE	/	FALSE	1682720962	NetflixId	ct%3DBQAOAAEBEI8yqD3R_Y3u8C7YcyA1g8CCUGIZ8Xy-6ZJJSJl4_uUz7AWq75amvSnEevRK0cIO8QTmRE5XlIc5n6SkwEz023OMKegOmj2hMudNtSC-w5kUHR4up4aEZaCQg35Y_rUtPI6EUra2KMYT7K35BwCvz8nlw_hNZoZGmh0NUDc_AQ-g6rmFAEC5QUO-DcLBOZn92Tu0WaaqzqnrDg20xNiHnsgHpBWW5Ekb64Qvgg1U88j1pCIZ4YUKMaDf2y5rS3V6vDcafNHV_ttGlE1VffFMcHGl9b4r9hJxvgHB-MIZjMOHMKUVOsaynx5LluHp0BTpFt1RwZFJWP6ATU_W7jkstgvufdVBy5nPq43U356-EJo-1qWrHDfwoxo7oPiIvdVuqKcCdkVDS63KAU-nxGvzG1vPkh13lZ4IclG0xXCKNui2Lj6MnwvLq6KgoB13VNMKqgyiJsEQ_G7ppI4EeUryRYpLV5dyPVmy01kbOInyj22N5uTH7Q7NbZ0Hvh4C4SEJwrH0ysrul5YHcrfOcB8hY1jD2PfOIWHOlyb96vMopZm0NZ_jZqvA_EK9uJ2hVfLw1X9m3gXFu9Klb2qiu7Tn3cSQHtsn0oemQfJ1jV7akEDud1XWu32-DJyiqt8O-x7Y1AJC-8TR0f_17oYpB6L1sb3nEMi0NLqwPNtIr5XCL1yX9ckCqvvEUwSdOZHwZlDmaPVUzpxIjFuylP7mmiAUHOjIt0IIkGqOzlcvCp5iXCOX1ZrOF1nhVDZbEmjaJ3Mdf_Ug1_JjvS7FYdrpUAZrt0nNtqOmMN_cOETnux_wgO98BXs.%26bt%3Ddbl%26ch%3DAQEAEAABABQz9OpRO1iUJmzwyOPPQ7dazCMy-0PpPl4.%26v%3D2%26mac%3DAQEAEAABABSbmG0pyCL8hIxN0o6ljOQdVilkPIJB2_M.
+.netflix.com	TRUE	/	FALSE	1682721672	OptanonAlertBoxClosed	2022-04-28T22:41:12.437Z
+.netflix.com	TRUE	/	FALSE	1682721672	OptanonConsent	isIABGlobal=false&datestamp=Thu+Apr+28+2022+17%3A41%3A12+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=6.6.0&consentId=ec0ebe40-ba2c-4190-8792-65afeaffd787&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=CO%3BDC
+.netflix.com	TRUE	/	FALSE	1682720962	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTP2w96ymQfhPharjb-4_SILd7FTKpzVHY.%26dt%3D1651184961656
+.netflix.com	TRUE	/	FALSE	1658961545	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

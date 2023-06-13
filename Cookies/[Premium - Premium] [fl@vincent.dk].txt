@@ -1,0 +1,11 @@
+.www.netflix.com	TRUE	/	FALSE	16845972887103690	cL	1651418961300%7C165141895833872835%7C165141895890067598%7C%7C4%7Cnull
+.netflix.com	TRUE	/	FALSE	16845972887103690	clSharedContext	70c65d4b-8fe8-491a-a56a-03754fb17f6d
+www.netflix.com	FALSE	/	FALSE	1668698957	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1714532854	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1682954960	nfvdid	BQFmAAEBEMemC67QUNjkA5FJ2mLd-ihgZNBF6HyzfPL8VFaGQP2jvIAI-zyH0Jjm1NQKJfqXJdkDIG4HcZ31hvf3vQpeAiUUsETl3zmsRq_M0JnkW9qtLU4Fq8WlrVa9rOBe2p5AcB6NU-_QQ-Z1SFaF1xqWqnC8
+.netflix.com	TRUE	/	FALSE	1682954963	NetflixId	v%3D2%26ct%3DBQAOAAEBEBfVKMGdDvJYGkeimsyL1qaBsGRU0mlKaW32YoEgdEOGS0kUKg9A5w9xc6dnnh9Rt9z7-R3f3OFTSTqciZT3V9Xp1-F3LLUA_43wy_voJSt8g1B7Cw6znlb5YcYxfcqMY54dkPtepwCq-aXFrYy2f2jsA2RGmNunilo4ks7Zm983YsIZeBjo_3Ft6WhN9kz9EzIoDKz4ql9epMGnm9hGx6Ib4p6fPgVe05yGb_eef0LS5WNY3O2fckdEuXPjisrPamial0Qpr6QVR_bUcqDstz4T-eNhidZS4Xt_-5HUITlZwq26mTTgVDkeGqtCs7maV_0QcbmqZkqZf8CRe0BOw_O05iOkve95prxTvXdL5tMWZG4gbQVPxlosNEpHpz4egLFU7UUig5pvet9nD86bj5IbZ9_gGyGs7M8m72bIMc4tkNJHj3qIwKNM9lNLjZbj7IMyLutTeO8nPBXEFhNiDVw9Zik27rgvsgX4ifOm0hjUDCIE6PPtttKof2gtJOu2HNoBzh-zHIC74OGVdkeTTh-VK3mDzQK60_MY2HOoh0KWqnaMog8MYzDVHt9WbyZansVjwjIy7c2-qppG5HTy3BtrrA..%26bt%3Ddbl%26ch%3DAQEAEAABABRxlUgx_mT-X2LD-w-CRKBXunGIzphYUAc.%26mac%3DAQEAEAABABQ9FNV5v3exep0frWNFyKRO5_4z0qOutUM.
+.netflix.com	TRUE	/	FALSE	1682954965	OptanonAlertBoxClosed	2022-05-01T15:29:25.953Z
+.netflix.com	TRUE	/	FALSE	1682954965	OptanonConsent	isIABGlobal=false&datestamp=Sun+May+01+2022+17%3A29%3A25+GMT%2B0200+(Centraleurop%C3%A6isk+sommertid)&version=6.6.0&consentId=2d2cd981-ce2f-40d3-a284-e4a076611ea3&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&geolocation=DK%3B85&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1682954963	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTu9xXqvtqKzL6JA_Mjy9BrtUCimt_VuAs.%26dt%3D1651418962749
+.netflix.com	TRUE	/	FALSE	1659194965	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1682962860	memclid	82b21557-f065-443a-9ccd-32635fb673db
